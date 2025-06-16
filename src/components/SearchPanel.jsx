@@ -1,23 +1,17 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useMemo, useRef, useState, useEffect } from 'react';
 import { FaSearch } from 'react-icons/fa';
 import { IoMdClose } from 'react-icons/io';
 
-// Example options
-const ageOptions = ["Age", "0-5", "6-12", "13-17", "18+"];
-const countyOptions = ["County", "Alameda", "Los Angeles", "Sacramento", "San Diego"];
-const insuranceOptions = [
-  "Insurance",                             
-  "Private",
-  "MediCal Managed Care",
-  "MediCal FFS",
-  "Other"
-];
-const cwOptions = ["CW", "Option 1", "Option 2", "Option 3"];
-
-const filterChips = [
-  "All", "MHP", "CWS", "Probation", "Regional Center", "Education",
-  "Child Welfare", "Behavioral Health", "Hyperlink", "Health Plan", "ASAM"
-];
+const initialFilters = {
+  age: 'All',
+  county: 'All',
+  insurance: 'All',
+  cw: 'All',
+  eligibility: 'All',
+  category: 'All',
+  partners: [],
+  search: ''
+};
 
 const buttonTextStyle = {
   fontFamily: 'Montserrat, sans-serif',
@@ -102,79 +96,105 @@ const CustomDropdown = ({ options, value, onChange }) => {
   );
 };
 
-const SearchPanel = ({ onSearch }) => {
-  // State for selected filter and search input
-  const [selectedFilter, setSelectedFilter] = useState(0); // Default to "All"
-  const [searchInput, setSearchInput] = useState('');
-  const [age, setAge] = useState(ageOptions[0]);
-  const [county, setCounty] = useState(countyOptions[0]);
-  const [insurance, setInsurance] = useState(insuranceOptions[0]);
-  const [cw, setCw] = useState(cwOptions[0]);
-  const [isActive, setIsActive] = useState(false);
+const formatAge = r => {
+  if (!r || (r.min == null && r.max == null)) return '';
+  return `${r.min ?? ''}-${r.max ?? ''}`;
+};
+
+const SearchPanel = ({ services, filters, setFilters }) => {
   const searchInputRef = useRef();
+  const [isActive, setIsActive] = useState(false);
+
+  const ageOptions = useMemo(() => {
+    const set = new Set();
+    services.forEach(s => {
+      const str = formatAge(s.age_range);
+      if (str) set.add(str);
+    });
+    return ['All', ...Array.from(set)];
+  }, [services]);
+
+  const countyOptions = useMemo(() => {
+    const set = new Set();
+    services.forEach(s => {
+      const list = Array.isArray(s.county_restrictions)
+        ? s.county_restrictions
+        : s.county_restrictions
+          ? String(s.county_restrictions).split(/,|\n/)
+          : [];
+      list.forEach(c => { const val = c.trim(); if (val) set.add(val); });
+    });
+    return ['All', ...Array.from(set)];
+  }, [services]);
+
+  const insuranceOptions = useMemo(() => {
+    const set = new Set();
+    services.forEach(s => {
+      (s.insurance_types || []).forEach(i => set.add(i));
+    });
+    return ['All', ...Array.from(set)];
+  }, [services]);
+
+  const cwOptions = useMemo(() => {
+    const set = new Set();
+    services.forEach(s => { if (s.system) set.add(s.system); });
+    return ['All', ...Array.from(set)];
+  }, [services]);
+
+  const partnerOptions = useMemo(() => {
+    const set = new Set();
+    services.forEach(s => {
+      const raw = typeof s.partners_involved === 'string'
+        ? s.partners_involved.split(/\n|,/)
+        : s.partners_involved || [];
+      raw.forEach(p => {
+        const val = p.trim();
+        if (!val) return;
+        if (val.length > 30) return;
+        if (/[:.]/.test(val)) return;
+        if (val.split(/\s+/).length > 4) return;
+        set.add(val);
+      });
+    });
+    return Array.from(set);
+  }, [services]);
 
   // Listen for any keydown event and focus the search input
   useEffect(() => {
-    const handleKeyDown = (e) => {
-      // Ignore if user is typing in an input/textarea already
+    const handleKeyDown = e => {
       if (
-        document.activeElement.tagName === "INPUT" ||
-        document.activeElement.tagName === "TEXTAREA" ||
+        document.activeElement.tagName === 'INPUT' ||
+        document.activeElement.tagName === 'TEXTAREA' ||
         document.activeElement.isContentEditable
       ) {
         return;
       }
-      // Only activate for visible characters (not ctrl, shift, etc.)
       if (e.key.length === 1) {
         setIsActive(true);
         searchInputRef.current?.focus();
       }
     };
-    window.addEventListener("keydown", handleKeyDown);
-    return () => window.removeEventListener("keydown", handleKeyDown);
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
 
-  // Send filters to parent whenever any filter/search changes
-  useEffect(() => {
-    if (onSearch) {
-      onSearch({
-        search: searchInput,
-        age,
-        county,
-        insurance,
-        cw,
-        selectedFilter: filterChips[selectedFilter]
-      });
-    }
-    // eslint-disable-next-line
-  }, [searchInput, age, county, insurance, cw, selectedFilter]);
-
-  // Handle filter selection
-  const handleFilterSelect = (index) => {
-    setSelectedFilter(index);
+  const handleChange = (field, value) => {
+    setFilters(prev => ({ ...prev, [field]: value }));
   };
 
-  // Clear search input
-  const clearSearch = () => {
-    setSearchInput('');
-  };
-  
-  // Clear all filters and search
-  const clearAll = () => {
-    setSelectedFilter(0);
-    setSearchInput('');
-    setAge(ageOptions[0]);
-    setCounty(countyOptions[0]);
-    setInsurance(insuranceOptions[0]);
-    setCw(cwOptions[0]);
+  const togglePartner = tag => {
+    setFilters(prev => {
+      const exists = prev.partners.includes(tag);
+      const partners = exists
+        ? prev.partners.filter(p => p !== tag)
+        : [...prev.partners, tag];
+      return { ...prev, partners };
+    });
   };
 
-  // Handle Enter key in search bar (optional, but not needed for auto-update)
-  const handleSearchKeyDown = (e) => {
-    if (e.key === 'Enter') {
-      // No-op, since filtering is now live
-    }
-  };
+  const clearAll = () => setFilters(initialFilters);
+
+  const clearSearch = () => setFilters(prev => ({ ...prev, search: '' }));
 
   return (
     <div className="w-screen flex flex-col items-center bg-[#f6f8ff] py-6 border border-blue-200 rounded-b-lg px-4">
@@ -190,10 +210,10 @@ const SearchPanel = ({ onSearch }) => {
       <div className="md:w-[75%] bg-[#f6f8ff] rounded-xl p-4 shadow flex flex-col gap-3 sm:w-full">
         {/* Dropdowns */}
         <div className="flex gap-4 w-full flex-col sm:flex-row">
-          <CustomDropdown options={ageOptions} value={age} onChange={setAge} />
-          <CustomDropdown options={countyOptions} value={county} onChange={setCounty} />
-          <CustomDropdown options={insuranceOptions} value={insurance} onChange={setInsurance} />
-          <CustomDropdown options={cwOptions} value={cw} onChange={setCw} />
+          <CustomDropdown options={ageOptions} value={filters.age} onChange={val => handleChange('age', val)} />
+          <CustomDropdown options={countyOptions} value={filters.county} onChange={val => handleChange('county', val)} />
+          <CustomDropdown options={insuranceOptions} value={filters.insurance} onChange={val => handleChange('insurance', val)} />
+          <CustomDropdown options={cwOptions} value={filters.cw} onChange={val => handleChange('cw', val)} />
         </div>
         {/* Search Bar */}
         <div className={`flex items-center rounded-lg px-4 py-4 bg-white transition-all duration-150
@@ -210,13 +230,13 @@ const SearchPanel = ({ onSearch }) => {
             placeholder="Search"
             className={`flex-1 bg-white outline-none border-none shadow-none focus:ring-0 text-gray-700 transition-all duration-150`}
             style={{ boxShadow: "none" }}
-            value={searchInput}
-            onChange={(e) => setSearchInput(e.target.value)}
-            onKeyDown={handleSearchKeyDown}
+            value={filters.search}
+            onChange={e => handleChange('search', e.target.value)}
+            onKeyDown={(e)=>{ if(e.key==='Enter'){}}}
             onFocus={() => setIsActive(true)}
             onBlur={() => setIsActive(false)}
           />
-          {searchInput && (
+          {filters.search && (
             <button onClick={clearSearch}>
               <IoMdClose className="text-gray-400 text-lg" />
             </button>
@@ -225,18 +245,18 @@ const SearchPanel = ({ onSearch }) => {
 
         {/* Filter Chips */}
         <div className="flex flex-wrap overflow-x-auto gap-2 mt-1 pb-2">
-          {filterChips.map((chip, idx) => (
+          {partnerOptions.map(tag => (
             <button
-              key={chip}
+              key={tag}
               style={buttonTextStyle}
-              onClick={() => handleFilterSelect(idx)}
-              className={`px-3 py-2 rounded-full border-2 font-medium whitespace-nowrap transition-colors duration-150
-                ${idx === selectedFilter
+              onClick={() => togglePartner(tag)}
+              className={`px-3 py-2 rounded-full border-2 font-medium whitespace-nowrap transition-colors duration-150 ${
+                filters.partners.includes(tag)
                   ? 'bg-[#D14B3A] text-white border-[#D14B3A]'
                   : 'bg-white text-[#222] border-[#E8ECFF] hover:bg-white hover:border-gray-300'
-                }`}
+              }`}
             >
-              {chip}
+              {tag}
             </button>
           ))}
         </div>

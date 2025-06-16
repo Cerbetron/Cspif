@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useMemo } from "react";
 
 // Partner badge color mapping (only 3 allowed colors)
 const partnerColors = {
@@ -14,7 +14,12 @@ const partnerColors = {
   // fallback color will be used if not found
 };
 
-const ResourceListing = ({ services = [] }) => {
+const formatAge = r => {
+  if (!r || (r.min == null && r.max == null)) return 'All';
+  return `${r.min ?? ''}-${r.max ?? ''}`;
+};
+
+const ResourceListing = ({ services = [], filters }) => {
   const [selectedIdx, setSelectedIdx] = useState(0);
 
   React.useEffect(() => {
@@ -22,6 +27,40 @@ const ResourceListing = ({ services = [] }) => {
       setSelectedIdx(0);
     }
   }, [services, selectedIdx]);
+
+  const applyFilters = useMemo(() => {
+    const search = filters.search.toLowerCase();
+    return service => {
+      if (filters.age !== 'All' && formatAge(service.age_range) !== filters.age) return false;
+      if (filters.county !== 'All') {
+        const list = Array.isArray(service.county_restrictions)
+          ? service.county_restrictions
+          : service.county_restrictions
+            ? String(service.county_restrictions).split(/,|\n/)
+            : [];
+        if (!list.map(c => c.trim()).includes(filters.county)) return false;
+      }
+      if (filters.insurance !== 'All' && !(service.insurance_types || []).includes(filters.insurance)) return false;
+      if (filters.cw !== 'All' && service.system !== filters.cw) return false;
+      if (filters.eligibility !== 'All' && service.eligibility !== filters.eligibility) return false;
+      if (filters.category !== 'All' && service.category !== filters.category) return false;
+      if (filters.partners.length) {
+        const parts = typeof service.partners_involved === 'string'
+          ? service.partners_involved.split(/\n|,/)
+          : service.partners_involved || [];
+        const vals = parts.map(t => t.trim()).filter(v => v);
+        if (!filters.partners.every(p => vals.includes(p))) return false;
+      }
+      if (search) {
+        const title = (service.name || service.title || '').toLowerCase();
+        const desc = (service.description || '').toLowerCase();
+        if (!(title.includes(search) || desc.includes(search))) return false;
+      }
+      return true;
+    };
+  }, [filters]);
+
+  const filteredServices = useMemo(() => services.filter(applyFilters), [services, applyFilters]);
 
   return (
     <div
@@ -132,14 +171,14 @@ const ResourceListing = ({ services = [] }) => {
           </tr>
         </thead>
         <tbody>
-          {services.length === 0 ? (
+          {filteredServices.length === 0 ? (
             <tr>
               <td colSpan={6} className="text-center py-8 text-gray-400">
                 No resources found.
               </td>
             </tr>
           ) : (
-            services.map((res, idx) => {
+            filteredServices.map((res, idx) => {
               const isSelected = idx === selectedIdx;
               return (
                 <tr
