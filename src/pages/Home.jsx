@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import Header from '../components/Header'
 import SearchPanel from '../components/SearchPanel'
 import Footer from '../components/Footer'
@@ -7,61 +7,28 @@ import ResourceListing from '../components/ResourceListing'
 import SidebarButton from '../components/SidebarButton'
 
 // Import all service arrays
-const [services, setServices] = useState([]);
-useEffect(() => {
-  fetch('../data/selected_resources.json')
-    .then(res => res.json())
-    .then(data => setServices(data));
-}, []);
-
-// Combine all arrays into one master array
-const combinedServices = [
-  ...behavioralHealthPlacements,
-  ...probationPlacements,
-  ...probationServices,
-  ...childWelfareServices,
-  ...allServices
-];
-
-const [filters, setFilters] = useState({
-  age: "All",
-  county: "All",
-  insurance: "All",
-  cw: "All",
-  eligibility: "All",
-  category: "All",
+const initialFilters = {
+  age: 'All',
+  county: 'All',
+  insurance: 'All',
+  cw: 'All',
+  eligibility: 'All',
+  category: 'All',
   partners: [],
-  search: ""
-});
-
-
+  search: ''
+};
 
 const Home = () => {
+  const [services, setServices] = useState([]);
+  const [filters, setFilters] = useState(initialFilters);
   const [sidebarOpen, setSidebarOpen] = useState(false);
-  const [filters, setFilters] = useState(null);
 
-  // Filtering logic
-  const filteredServices = React.useMemo(() => {
-    if (!filters) return combinedServices;
-    return combinedServices.filter(service => {
-      // Search filter (case-insensitive, matches title or description)
-      const search = filters.search?.trim().toLowerCase() || '';
-      const matchesSearch =
-        !search ||
-        service.title.toLowerCase().includes(search) ||
-        service.description.toLowerCase().includes(search);
-
-      // Dropdown filters (skip if default selected)
-      const matchesAge = !filters.age || filters.age === "Age" || service.age === filters.age;
-      const matchesCounty = !filters.county || filters.county === "County" || service.county === filters.county;
-      const matchesInsurance = !filters.insurance || filters.insurance === "Insurance" || service.insurance === filters.insurance;
-      const matchesCw = !filters.cw || filters.cw === "CW" || service.cw === filters.cw;
-
-      // You can add more filter logic for selectedFilter if needed
-
-      return matchesSearch && matchesAge && matchesCounty && matchesInsurance && matchesCw;
-    });
-  }, [filters]);
+  useEffect(() => {
+    fetch("/selected_resources.json")
+      .then(r => r.json())
+      .then(data => setServices(data))
+      .catch(() => setServices([]));
+  }, []);
 
   return (
     <div className="bg-[#f6f8ff] flex flex-col min-h-screen w-full relative overflow-x-hidden">
@@ -72,7 +39,7 @@ const Home = () => {
 
       {/* Search Panel */}
       <div className="min-w-full sm:px-2">
-        <SearchPanel onSearch={setFilters} />
+        <SearchPanel services={services} filters={filters} setFilters={setFilters} />
       </div>
 
       {/* Main content area with blur overlay when sidebarOpen */}
@@ -95,7 +62,7 @@ const Home = () => {
         >
           {/* Desktop Sidebar (1025px and up) */}
           <div className={`hidden lg:block min-w-[220px]${sidebarOpen ? " lg:hidden" : ""}`}>
-            <Sidebar />
+            <Sidebar services={services} filters={filters} setFilters={setFilters} />
           </div>
           {/* Tablet Sidebar Button (between 640px and 1024px) */}
           <div className="hidden sm:flex lg:hidden items-start">
@@ -123,7 +90,7 @@ const Home = () => {
                 }}
               >
                 <div className="overflow-y-auto p-0 relative flex flex-col w-full max-h-min">
-                  <Sidebar />
+                  <Sidebar services={services} filters={filters} setFilters={setFilters} />
                   {/* Close button inside sidebar */}
                   <button
                     className="absolute top-4 right-4 text-[#2563eb] bg-white rounded-full p-2 shadow"
@@ -141,7 +108,7 @@ const Home = () => {
             {/* Resource Listing */}
             <div className="relative flex-1 flex flex-col w-full">
               <div className={sidebarOpen ? "transition-all duration-300 relative z-10" : ""}>
-                <ResourceListing services={filteredServices} />
+                <ResourceListing services={services} filters={filters} />
                 <div className="flex justify-end mt-12">
                   <button
                     className="bg-[#CB3525] text-white rounded-md px-4 py-2 flex items-center gap-2 font-semibold shadow-sm hover:bg-[#b53e2f] transition"
@@ -180,7 +147,7 @@ const Home = () => {
       <div classname="flex min-w-full">
 <Footer />
       </div>
-      
+
     </div>
   )
 }
