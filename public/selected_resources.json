@@ -1,0 +1,2812 @@
+[
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "High Fidelity Wrap",
+    "description": "The California High Fidelity Wrap (HFW) Model is a coordinated effort between Child Welfare and Behavioral Health to provide foster youth stepping down from an STRTP to a home-based placement with after care services. The co-created model provides the minimum standards for Wraparound to serve youth transitioning out of congregate care, as required by FFPSA IV. Wraparound (CA HFW) is a strengths-based planning process that occurs in a team setting to engage with children, youth, and their families. A child and family team is formed and works directly with the family as they identify their own needs and strengths. The team develops a service plan that describes specific strategies for meeting the needs identified by the family. The service plan is individualized, with strategies that reflect the child and family’s culture and preferences. California Wraparound is intended to allow children to live and grow up in a safe, stable, permanent family environment. For children and families in the foster care system, the Wraparound process can:\n- Enhance strengths by creating a strength-based intervention plan with a child and family team;\n- Promote youth and parent involvement with family voice, choice, and preference;\n- Use community-based services;\n- Create independence and stability;\n- Provide services that fit a child and family’s identified needs, culture, and preferences;\n- Create one plan to coordinate responses in all life domains; and\n- Focus on achieving positive goals.\n\nCDSS/DHCS are pending final instruction for HFW, and it is anticipated programming will be updated regularly while establishing the CA Wraparound Standards.",
+    "eligibility": "Required for youth stepping down from an STRTP to a home-based placement for six months.\n\nThe service can only be provided by a certified provider.",
+    "partners_involved": "CWS\nProbation\nBehavioral Health",
+    "state_direction": "Updated ACL pending\nCA Wraparound Standards (WIC 4096.6)\nACIN I-52-25\nACL 18-81\nACL/BHIN 21-116/21-061",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "family",
+      "community-based",
+      "mental health",
+      "youth",
+      "transition",
+      "wraparound"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "Child and Family Team Meetings",
+    "description": "Child and Family Teams (CFTs) bring together loved ones and experts to support the child in reaching their potential and are dedicated to helping the family thrive.\n- CFTs draw on a child and family’s strengths, experiences, knowledge, and network of support to create a plan for the safety, stability, and well-being of the children and family.\n- The CFT process is intended to be inclusive of multiple formal support systems a family may need, as well as the informal, community, and natural supports that surround a family.\n- The CFT process provides children and families opportunities to use their experiences and contribute their ideas to help them reach their goals.\nEvery child and family is unique, requiring support be tailored with them. The Chid and Family Team meets at regular intervals in a family's case with child welfare to include: \n- After the initial removal\n- For each change of placement\n- Prior to court hearings \n- At the request of any team member to address issues of placement and service planning",
+    "eligibility": "Every youth involved with the child welfare system has a Child and Family Team.",
+    "partners_involved": "CWS\nProbation\nBehavioral Health",
+    "state_direction": "ACL 25-08\nACIN I-35-24\nACL 22-73\nACL 22-35",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "community-based",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "Intesive Services Foster Care (ISFC) Family Only Support",
+    "description": "Allows for county use of the ISFC level payment on\nan urgent, time-limited basis (up to 60 days) to any RF for\nchildren/NMD with urgent placement needs, or to any RF on\nan on-going basis, based on the intensive needs of the\nchild/NMD if they [the RF] meet a level of specified training\nand competencies matched to the child’s needs at this level\nand the rate is based on the Level of Care Protocol.",
+    "eligibility": "Foster youth who have Intensive Services Foster Care (ISFC) needs.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACIN I-12-25\nACL 17-11",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "Intesive Services Foster Care (ISFC)  Services Only Support",
+    "description": "The SO rate may be used by the county to secure services and supports from an FFA, Short Term Residential Therapeutic Program (STRTP), Community Based Organization (CBO), Tribal service provider, or other appropriate public or private entity. This is to ensure that services continue to be provided for children/NMDs whose intensive needs make them eligible for ISFC program-level services and to stabilize their placement even if their RF is not affiliated with an ISFC program. There is no limitation on the length of time the SO rate may be used for a child/NMD. Counties also have flexibility to determine the amount of the SO rate they intend to use, which means the county may pay a portion of SO rate or the entire amount, as long as the county is satisfying its obligation to meet the needs of the child/NMD.\n\nThe SO rate is intended to be used flexibly based on the needs of the child/NMD and families to support permanency and/or placement stability efforts. Services provided through this rate should be documented in the child’s/NMD’s case plan. These funds could be used to pay for oversight and support of the RF until a new ISFC provider can be secured.",
+    "eligibility": "Foster youth who have Intensive Services Foster Care (ISFC) needs, in a home-based placement not affiliated with a Foster Family Agency (FFA)",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACIN I-12-25\nACL 18-88",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "a home-based placement not affiliated with a Foster Family Agency (FFA) The SO rate may be used by the"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "housing",
+      "youth",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "Static Rate",
+    "description": "Static Criteria is a list of behaviors or conditions that have been present within the last 12 months and indicate the need to provide a higher level of care and/or supervision for a youth, prior to the use of the Level of Care Protocol, in order to secure a safe placement with an approved RF for a youth presenting with higher supervision needs and to support the RF with a temporary rate for the enhanced level of care and supervision.",
+    "eligibility": "The exhaustive list of chronic behavioral or medical indicators that permit the use of the Static rate include:\n• Adjudicated violent offenders\n• Significant property damage\n• Sex offenders/perpetrators\n• Aggressive and assaultive\n• Animal Cruelty\n• Commercial Sexual Exploitation of Children (CSEC)\n• Contraction of pandemic viruses, such as COVID-19\n• Eating Disorder\n• Fire Setting\n• Gang activity\n• Habitual runaway\n• Habitual truancy\n• Medically Fragile\n• SHCN\n• Psychiatric Hospitalization(s)\n• Severe mental health issues including suicidal ideation and/or self-harm\n• Substance use/abuse",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 16-79\nACL 17-11\nACL 21-17\nACIN I-73-23",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "youth"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "Respite",
+    "description": "Respite is a request by the youth's current Resource Family to have a break. Respite care allows for the youth to be placed with another caregiver for a short period of time – up to 14 days per month. These services are not provided for the purpose of routine, on-going child care. Respite is especially helpful when foster children have complex care needs. Respite care can enable the caregiver(s) to:\n- Reduce stress by being able to run errands in a much more expedient fashion\n- Reduce stress by allowing some “me” time or “down” time to re-energize\n- Maintain their physical health by allowing regular visits with their own physician\n- Maintain their mental/emotional health by taking time to attend support groups\nA respite caregiver shall be an approved relative or nonrelative extended family member (NREFM), an approved Resource Family, or certified respite care provider.",
+    "eligibility": "Each county provides its own Respite plan, eligibility criteria, and payment rates.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACIN I-51-16",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "respite",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "Peer Partners",
+    "description": "Over the past decade, as child welfare, probation, and behavioral health agencies and community service providers have worked towards authentically engaging the voices of children, youth, parents, and families, the integration of peer partners into child and family serving programs has emerged as a central value and practice of engagement.\n\nThere is growing evidence that peer partner programs are an essential strategy to promote engagement and increase reunification among families and children that are involved in the child welfare system. Outcomes from working with peer partners include: instilling hope, promoting self-advocacy, connecting families to services, and promoting an agency culture shift to one that engages authentically with families. \n\nPeer partners have four key functions: \n(1) to ensure clients are equal partners, if not leaders, in the development and implementation of their behaviorally-based service plans, case plans, and treatment plans; \n(2) to represent the needs and perspectives of their client to internal and external stakeholders and decision makers within the system of care; \n(3) to ensure that their client has access to a comprehensive array of prevention and support services that meet their individual needs and increase family engagement; and \n(4) to ensure that these services are family-centered; easily accessible; respectful of cultural, ethnic, and other community characteristics; and stigma free.",
+    "eligibility": "Counties can choose how to identify and provide peer supports. Peer partners could include partners for:\n- Current foster youth\n- Bio Parents\n- Caregivers",
+    "partners_involved": "CWS\nProbation\nBehavioral Health",
+    "state_direction": "Peer Partner Funding Matrix",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "programs has emerged as a central value",
+      "practice of engagement"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "family",
+      "therapy",
+      "peer support",
+      "community-based",
+      "mental health",
+      "youth"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "(Emergency) Child Care Bridge",
+    "description": "The Emergency Child Care Bridge Program (Bridge Program) aims to facilitate the immediate placement of children within the foster care system into a stable child care and development setting by helping relatives, parenting youth under the jurisdiction of the court, or foster/resource families obtain child care services upon placement.  It provides time-limited vouchers for child care and child care navigator services for families to assist with accessing long-term child care. There is also a Trauma-Informed Care (TIC) training and coaching component for child care providers to enhance their ability to provide nurturing and safe environments for children. These solutions are used at the time of placement and are meant to stabilize children in the best possible settings ensuring that caretakers have adequate support to balance their work and home lives.",
+    "eligibility": "Families may receive a time-limited voucher to assist with child care costs for children in the foster care system birth through age 12, and for youth with exceptional needs up to age 21. A voucher may be issued for an initial six-months, and then renewed for an additional six months, or until the child is successfully transitioned into long-term, subsidized child care. Eligibility may be extended beyond 12 months if there is a compelling reason, at the discretion of the county.",
+    "partners_involved": "CWS",
+    "state_direction": "ACL 18-80E\nCCB 22-27",
+    "age_range": {
+      "min": null,
+      "max": 21
+    },
+    "county_restrictions": [
+      "the foster care system birth through age 12",
+      "and for youth with exceptional needs up to age 21. A voucher may be issued for an initial six-months",
+      "and then renewed for an additional six months",
+      "or until the child is successfully transitioned into long-term",
+      "subsidized child care. Eligibility may be extended beyond 12 months if there is a compelling reason",
+      "at the discretion of the"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "trauma",
+      "family",
+      "youth",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "Independent Living Program (ILP)/Independent Living Services (ILS)",
+    "description": "The Independent Living Program provides training, services, and benefits to assist current and former foster youth in achieving self-sufficiency prior to, and after leaving, the foster care system. In California, each county has the flexibility to design services to meet a wide range of individual needs and circumstances, and to coordinate services with other Federal and State agencies engaged in similar activities.\n\nThe ILP is designed to assist current and former foster youth achieve self-sufficiency.  Some of the services provided are:\nDaily living skills\nMoney management\nDecision making\nBuilding self-esteem\nFinancial assistance with college or vocational schools\nEducational Resources\nHousing (Transitional Housing)\nEmployment",
+    "eligibility": "Youth are eligible for ILP services from age 16 to the day before their 21st birthday, provided one of the following criteria is met:\nThe youth was/is in foster care at any time from their 16th to their 19th birthday.\nThe youth was placed in out-of-home care by a tribe or tribal organization between their 16th and 19th birthdays.\nThe youth is a former dependent who entered into a kinship guardianship at any age and is receiving/received Kinship Guardianship Assistance Payments (Kin-GAP) between the ages of 16 and 18.\nThe youth is a former dependent who entered into a Non-Related Legal Guardianship (NRLG) after attaining age 8 and is receiving/received permanent placement services.",
+    "partners_involved": "CWS \nProbation",
+    "state_direction": "ACIN I-61-02\nACIN I-39-12",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "achieving self-sufficiency prior to",
+      "and after leaving",
+      "the foster care system. In California",
+      "each"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "housing",
+      "youth",
+      "transition",
+      "education"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "CDSS Provided TA (System of Care Strike Team)",
+    "description": "The System of Care (SOC) Strike Team is a child specific working group, in which connects/conducts warm hand offs to assist with a path forward when youth are staying in non-licensed settings. This is offered in addition to other Technical Assistance calls and it includes key local and state members to ensure that all system partners join to meet the needs of individual youth in foster care. The team from the state is a consistent set of individuals from CDSS, the Departments of Developmental Services, Health Care Services, and Education, helping to identify and secure additional supports and services the county may not yet have considered or been able to identify. When the call is scheduled to discuss a Tribal youth, a representative from the CDSS Office of Tribal Affairs participates.",
+    "eligibility": "No specific eligibility criteria",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "Please email: SOCTACALLS@dss.ca.gov to access this resource",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "which connects/conducts warm hand offs to assist with a path forward when youth are staying in non-licensed settings. This is offered in addition to other Technical Assistance calls",
+      "it includes key local",
+      "state members to ensure that all system partners join to meet the needs of individual youth in foster care. The team from the state is a consistent set of individuals from CDSS",
+      "the Departments of Developmental Services",
+      "Health Care Services",
+      "and Education",
+      "helping to identify",
+      "secure additional supports",
+      "services the"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "education",
+      "youth"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "Catalyst Center",
+    "description": "The Catalyst Center is a training and technical assistance organization operated under the leadership of the California Alliance of Child and Family Services that represents the interests of child and family serving professionals in California. The Catalyst Center is committed to strengthening connections between research, policy, and practice to inform and lead capacity building efforts across the State of California for providers in the fields of child and family services. Contracted by the California Department of Social Services (CDSS), the Catalyst Center offers an array of consultative services and supports for placing entities, providers, behavioral health, educational partners, tribes, and Child and Family Team members.",
+    "eligibility": "No specific eligibility criteria",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "To inquire about the Children’s Services Foundation’s\nservices please contact the System of Care Technical\nAssistance at SOCTACALLS@dss.ca.gov.",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "professionals in California"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "mental health",
+      "education",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "University of Davis Health TEAM",
+    "description": "Provides case consultations to improve the quality of life and placement stability for youth with neurodevelopmental disorders and psychiatric comorbidity, including autism, ADHD, traumatic brain injury, PTSD, depression, and more. Services will include diagnostic clarification, medication and treatment  recommendations, resources, and strategies to stabilize the youth.",
+    "eligibility": "Consultation for youth and families can be accessed by counties, Tribes, STRTPs, service providers, schools, regional centers or directly by families via referral to CDSS.",
+    "partners_involved": "CWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "Request a referral form and further information by emailing CCR@dss.ca.gov",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "trauma",
+      "therapy",
+      "autism",
+      "mental health",
+      "youth"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "Ascend Diagnostic and Support Services",
+    "description": "Provides case consultations for youth with a dual diagnosis of developmental disability (e.g. Intellectual disability or autism) and trauma or other mental health challenges.  Services will be tailored to fit the needs of the youth and may include strengthening collaboration and teaming with system of care partners, individual coaching of family or team members to develop connection and trust with the youth and family and manage youth behaviors, strategies for modifying mental health interventions to meet the needs of youth with developmental disabilities and trauma, strategies to preserve placement or assist with transitioning the youth, and other resources.",
+    "eligibility": "Consultations can be accessed by providers including STRTPS, FFAs, regional centers, counties, or directly by families via referral to CDSS.",
+    "partners_involved": "CWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "Request a referral form and further information by\nemailing CCR@dss.ca.gov",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "developmental",
+      "trauma",
+      "family",
+      "dd",
+      "autism",
+      "mental health",
+      "youth",
+      "transition"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "General State Technical Assistance",
+    "description": "CDSS provides facilitated technical assistance on an array of topics. These calls bring together the county placing agency, county behavioral health, other system partners, and, as appropriate, the STRTP provider to discuss the following:\n- STRTP placement options when a county needs support identifying a provider that will be a good fit;\n- Eliminating barriers to a youth’s placement in an STRTP;\n- Any issue(s) with a youth’s current placement and what resources can be put in place to alleviate those issues; and\n- Placement termination notices and what, if any, behavioral/mental health or other supports might preserve the placement or would support the youth in a transition to another placement if the current placement is no longer viable.",
+    "eligibility": "No specific eligibility criteria.",
+    "partners_involved": "CWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "If a county would benefit from a technical assistance call, please contact, SOCTACALLS@dss.ca.gov",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "mental health",
+      "youth",
+      "transition"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Service",
+    "category": "Child Welfare - Services",
+    "name": "Family Urgent Response System (FURS)",
+    "description": "The Family Urgent Response System (FURS) is a coordinated statewide, regional, and county-level system designed to provide collaborative and timely state-level phone-based response and county-level in-home, in-person mobile response during situations of instability, to preserve the relationship of the caregiver and the child or youth.\nFURS Services Include:\n- A toll-free hotline available 24 hours a day, 7 days a week staffed with caring counselors trained in conflict resolution and de-escalation techniques for children and youth impacted by trauma.\n- County Mobile Response and Stabilization Teams also available 24 hours a day, 7 days a week.\n- In-home de-escalation, stabilization, conflict resolution, and support services and resources.\n- Ongoing support services beyond the initial mobile response.\n- Hotline and mobile response staff trained in working with children and families who have experienced trauma.",
+    "eligibility": "Current and former foster youth and their caregivers can call the FURS hotline for support.",
+    "partners_involved": "Child Welfare",
+    "state_direction": "ACL 20-89\nACIN I-29-21",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "youth",
+      "trauma",
+      "family"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "Resource Family (Relative and Non-Relative)",
+    "description": "An individual or family approved by child welfare under the Resource Family Approval (RFA) program to provide care for a child/youth or NMD who is under the jurisdiction of Juvenile Court under a WIC 300 or 600 petition. Families approved under RFA consist of relatives/NREFMs and non-relatives. RFs are home-based placements who can take children with varying demographics (age, gender, etc) and needs based on their preferences and approval status. RFs may be trained and approved by Child Welfare, Probation, and Foster Family Agencies; the approving entity is also the entity that monitors the RF home.",
+    "eligibility": "Youth may be placed in a RF home when the youth's needs can be safely met by the caregiver, placing agency, and Child and Family Team - including both natural and formal supports. \n\nYouth may be placed with a relative/NREFM prior to full RFA if the home meets emergency placement criteria, including an assessment of 361.3/361.4 factors.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 16-10\nWIC 16519.5\nRFA Written Directives v8.0\nWIC 361.3 and 361.4",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "Tribally Approved Home (TAH)",
+    "description": "A home that has met the federal requirements for background checks and a home health and safety assessment, as assessed by the tribe's/tribal agency's socially and cutlurally approporaite standards. The TAH must be approved by the specific child's tribe.",
+    "eligibility": "Indian children who are receiving placement approval from their specific tribe. If a sibling set with a non-Indian child needs home-based placement, the home must be RFA approved, the non-Indian child cannot be placed in a TAH.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 19-71\nIndian Child Welfare Act (ICWA)\n(25 U.S.C. 1915).",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "youth"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "Interstate Compact for the Placement of Children (ICPC) \nAKA Out of State Placement - non-congregate care",
+    "description": "Placement of youth with a relative/NREFM who has been approved by the caregiver's state of residence. The Interstate Compact on the Placement of Children (ICPC) establishes legal and administrative procedures for the interstate placement of children.\nThe ICPC is a contract among all 50 states, the District of Columbia, and the U.S. Virgin Islands authorizing them to work together to ensure that children who are placed across state lines for foster care or adoption receive adequate protection and support. Interstate placement requests for relative homes, foster family homes and prospective adoptive homes are processed by counties and licensed adoption agencies.",
+    "eligibility": "Any youth in out of home care can be considered for an ICPC home based placement when a relative/NREFM is identified and approved by the state in which they reside. \nChild Welfare cannot place youth in congregate care outside of California.",
+    "partners_involved": "CWS",
+    "state_direction": "ACL 17-50",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "youth",
+      "adoption",
+      "family"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "ISFC",
+    "description": "Sometimes children may require more intensive structured care. Intensive Services Foster Care (ISFC) provides more intensive care within a Resource Family. ISFC Resource Families receive additional training and support in order to provide more intensive care to children who may have complex mental health, behavioral, or medical needs.The program requires specially trained resource parents and professional and paraprofessional support. The ISFC program provides core services and supports to a child/youth in foster care. These core services may include, but are not limited to arranging access to mental health treatment, providing trauma informed care and providing transitional support from foster placement to permanent home placement.The goal is to ensure that the services needed are provided in a home-based family care setting or to prevent placement into, or assistance stepping down from, a Short Term Residential Therapeutic Program (STRTP). Along with additional services and supports, the caregiver is paid the highest home-based foster care rate available.",
+    "eligibility": "An eligible child for ISFC is a child or nonminor dependent in foster\ncare who requires a higher level of care of supervision as determined by the Level of\nCare Rate Determination Protocol (LOCP) - youth who score a five in either the Health or Behavioral Domains of the LOCP qualify for ISFC. The placing agency's Interagency Placement Committee can also approve a youth for ISFC.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 18-25",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "medical",
+      "housing",
+      "trauma",
+      "family",
+      "therapy",
+      "mental health",
+      "transition",
+      "youth"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "Home Based IMC (EISFC or ISFC+)",
+    "description": "A program-specific or a child-specific rate for a county-designed Innovative Model of Care (IMC) providing an innovative program or model of care and services to support foster children and Non-Minor Dependents (NMDs) with complex needs unable to be met in existing Aid to Families with Dependent Children-Foster Care (AFDC-FC) programs or using alternative funding sources. For youth who have enhanced care, supervision, and service needs, not met by any other available placement/program, as a way to divert from residential care. Home-based IMC, sometimes called Enhanced ISFC (EISFC) or ISFC+, can be created as an individual model for the resource parent home (known as a professional parent model), or as an individual model per youth who needs placement. IMC gives counties and caregivers ability to be innovative in creating a set of services and supports tailored to the complex care youth. The plan is negotiated between the county and the potential caregiver. The IMC Rate is created in partnership with County or Tribe, the potential placement, and the CDSS Rate’s Oversight Unit based on the  needs and supports  being provided by the potential placement.\n\nIMC could encompass innovative models across counties, including Two Family Homes, programs that utilize old MTFC/ITFC principles and programming, and partnerships with behavioral health, respite, and other providers.",
+    "eligibility": "Youth with complex care needs can be assessed for an IMC placement.\nCaregivers who are able and willing to meet the needs of complex care youth, may apply to be an IMC home. \nBoth child specific, and home/facility based IMC, require approval from CDSS.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 22-21\nACL 21-119\nACL 21-143",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "existing Aid to Families with Dependent Children-Foster Care (AFDC-FC) programs",
+      "using alternative funding sources. For youth who have enhanced care",
+      "supervision",
+      "and service needs",
+      "not met by any other available placement/program",
+      "as a way to divert from residential care. Home-based IMC",
+      "sometimes called Enhanced ISFC (EISFC)",
+      "ISFC+",
+      "can be created as an individual model for the resource parent home (known as a professional parent model)",
+      "or as an individual model per youth who needs placement. IMC gives counties",
+      "caregivers ability to be innovative in creating a set of services",
+      "supports tailored to the complex care youth. The plan is negotiated between the"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "respite",
+      "housing",
+      "family",
+      "mental health",
+      "youth"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "Congregate Care IMC (STRTP of One or Two",
+    "description": "A program-specific or a child-specific rate for a county-designed Innovative Model of Care (IMC) providing an innovative program or model of care and services to support foster children and Non-Minor Dependents (NMDs) with complex needs unable to be met in existing Aid to Families with Dependent Children-Foster Care (AFDC-FC) programs or using alternative funding sources. Congregate care IMC can provide care and services for a child or NMD in foster care with complex needs who would not otherwise be successful if placed in an STRTP congregate care setting.  Congregate care based IMC, sometimes called an STRTP of One or STRTP of Two, can be created as a program model, or as an individual model per youth who needs placement. This IMC should seek to provide an innovative approach using, in new and original ways, intensive child-to-staff ratios, multi-systemic involvement, intensive clinical supports, intensive care coordination that is focused on a timely transition to a less restrictive setting, and utilize trauma-informed models, including intensive home-based services, wraparound services, and after care supports.\nAn STRTP of One or Two must comply with all the licensing and child welfare requirements that apply to all STRTPs. While an STRTP of One IMC may be either program-specific or child-specific, an STRTP of Two IMC is likely to be program-specific.  The IMC Rate is created in partnership with County or Tribe, the potential placement, and the CDSS Rate’s Oversight Unit based on the  needs and supports  being provided by the potential placement.",
+    "eligibility": "Youth with complex care needs can be assessed for an IMC placement.\nCaregivers who are able and willing to meet the needs of complex care youth, may apply to be an IMC home. \nBoth child specific, and home/facility based IMC, require approval from CDSS.",
+    "partners_involved": "CWS\nProbation\nCounty Mental Health Plan",
+    "state_direction": "ACL 22-21\nACL 21-119\nACL 21-143",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "partnership with"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "trauma",
+      "youth",
+      "transition",
+      "wraparound"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "STRTP",
+    "description": "An STRTP provides short-term intensive care and supervision, services and supports, treatment, and 24-hour care and supervision of children/youth and NMDs in a congregate care setting. \n\nAn STRTP is intended to serve children/youth and NMDs who need a level of care and supervision that cannot be safely met in a family-based setting and who are not in need of inpatient services.",
+    "eligibility": "Youth with complex care needs not able to be met safely in a home-based placement, must have assessment and approval by the following three in order to be in an STRTP placement:\n- Interagency Placement Committee (IPC)\n- Qualified Individual (QI)\n- Juvenile Court\n\nTo qualify for placement in an STRTP, the youth must meet all of Criteria One and at least one of Criteria Two as authorized by the IPC screening, as follows:\n\nCriteria One (1):\n- Inpatient care in a licensed health care facility is not required, and\n- A determination has been made in conjunction with the Child and Family Team which indicates that the child/youth/NMD requires the level of services provided by an STRTP.\n\nCriteria Two (2):\n- The child/youth/NMD meets the medical necessity criteria for Medi-Cal Specialty Mental Health Services as provided by an STRTP, or\n- The child/youth/NMD is assessed as Seriously Emotionally Disturbed, or\n- A licensed mental health professional assessed the youth as requiring the level of services provided in an STRTP in order to meet the youth’s behavioral or therapeutic needs",
+    "partners_involved": "CWS\nProbation\nRegional Center\nBehavioral Health",
+    "state_direction": "ACL 17-122\nSTRTP Interim Licensing Standards v5\nACL 21-114\nACL 21-113/BHIN 21-060\nACL 19-94",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "youth",
+      "24-hour care",
+      "family"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "CTF",
+    "description": "Community Treatment Facility (CTF):  A CTF provides 24-hour non-medical care and mental health treatment services to children in a secure environment, which are less restrictive than a hospital.  A facility's program design is subject to program standards developed and enforced by the State Department of Health Care Services (DHCS).",
+    "eligibility": "Youth with complex care needs not able to be met safely in a home-based placement or lower levels of congregate care, must have assessment and approval by the following three in order to be in an STRTP placement:\n- Interagency Placement Committee (IPC)\n- Qualified Individual (QI)\n- Juvenile Court \n- Conservator (as applicable)\n\nFor the IPC screening to determine the appropriateness of treatment and placement in a CTF, the youth must be determined by a mental health care professional to be described as stated below:\n\nThe child/youth/NMD must meet one (1) or more of 1 a, or b, or c and items 2, 3, and 4 below.\n\n1) The child/youth/NMD must have met the Seriously Emotionally Disturbed (SED) criteria as defined below.\na) Impairment in at least two (2) of the following areas: \nSelf-Care\nSchool Functioning\nFamily Relationships\nFunctioning in the community And either,\nRisk of removal from home or has already been removed, or\nThe mental health disorder and impairments have been present for more than six (6) months, or are likely to continue for more than one (1) year without treatment.\nb) The child/youth/NMD displays one (1) of the following:\nPsychotic features\nRisk of suicide\nRisk of violence to other due to mental health disorder\nc) The youth is a special education student that is determined to have an emotional disturbance.  This means a condition exhibiting one (1) or more of the following characteristics over a long period of time and to a degree that adversely affects a child's educational performance: \nAn inability to learn that cannot be explained by intellectual, sensory, or health factors\nAn inability to build or maintain satisfactory interpersonal relationships with peers and teachers\nInappropriate types of behaviors or feelings under normal circumstances\nA general pervasive mood of unhappiness or depression\nA tendency to develop physical symptoms or fears associated with personal or school problems.\n2) The youth may require a period of containment to participate in, and benefit from, mental health treatment, and the CTF program must be reasonably expected to improve the youth's mental health disorder.\n3) Other, less restrictive interventions must have been attempted and proved insufficient; or, the youth is in an inpatient psychiatric hospital. This applies to youth's placed in and out of state.\nThis includes denial of admission into an STRTP through an IPC screening where it is determined the youth would benefit from a higher level of care.\nThis may include outpatient therapy, family counseling, case management, family preservation efforts, special education classes, or nonpublic schooling.\n4) There must be consent for treatment/placement (by youth over age 18) or the youth must have a conservator appointed",
+    "partners_involved": "CWS\nProbation\nRegional Center\nBehavioral Health",
+    "state_direction": "ACL 21-114\nACL 21-113/BHIN 21-060",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "therapy",
+      "community-based",
+      "mental health",
+      "youth",
+      "24-hour care"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "CCCPP",
+    "description": "The Children’s Crisis Continuum Pilot Program (CCCPP) provided funding for a select number of counties or regional collaboratives throughout California to implement a crisis continuum of care for foster youth with high acuity needs. The purpose of the Children’s Crisis Continuum is to fully integrate the system of care for foster youth enabling a seamless transition between service settings and to provide stabilization and treatment to foster youth with high acuity needs within the least restrictive setting possible. The program will have access to ISFC beds specifically selected at partnering FFAs to support youth with high level mental health or substance use disorder needs. Pilot youth may require a combination of highly individualized stabilization services, inpatient treatment, or intensive transition planning and aftercare services. \n\nPilot funding can be used to support activities including but not limited to:\n-Investment in infrastructure and start up behavioral health services and placements for foster youth including Intensive Services Foster Care (ISFC) homes, Children’s Crisis Residential Programs, (CCRPs), Crisis Stabilization Units (CSUs), and Psychiatric Health Facilities (PHFs).\n- Specialized services and supports for foster youth such as child-specific recruitment, intensive family finding and engagement, respite care, and additional therapeutic foster care options.",
+    "eligibility": "Counties awarded a CCCPP grant:\n- Fresno & Madera Counties\n- Los Angeles County\n- Monterey County\n- Riverside & San Bernardino Counties\n- San Diego County\n- San Francisco, Contra Costa, Marin, Solano, and\nSonoma Counties\n- San Luis Obispo County\n- Stanislaus, Merced, and San Joaquin Counties\n\nCounties select their own specific eligibility criteria as reviewed and accepted by CDSS at the time of grant awarding.",
+    "partners_involved": "CWS\nBHS\nProbation",
+    "state_direction": "ACL 21-119",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "respite",
+      "housing",
+      "family",
+      "therapy",
+      "mental health",
+      "transition",
+      "youth",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "TSCF",
+    "description": "A Temporary Shelter Care Facility (TSCF) that provides no more than 10 calendar days of residential care and supervision for children pending long-term placement. TSCFs should be utilized for temporary care only after all available placement options have been exhausted.",
+    "eligibility": "TSCFs are available in the following counties:\n- Imperial\n- Kern\n- Orange\n- Sacramento\n- San Diego\n- San Joaquin\n- Sonoma\n- Los Angeles",
+    "partners_involved": "CWS",
+    "state_direction": "ACIN I-50-16",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "housing",
+      "youth"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "Transitioal Housing Program (THP) - NMD",
+    "description": "A placement program available to NMDs ages 18 up to 21. Offered by a licensed transitional housing placement provider (THPP) to provide safe housing for NMDs and assistance in developing the skills needed for transitioning to independent living with assistance from a case manager. \n\nThe Transitional Housing Program (THP)-NMD provides current and former foster youth additional supports they need to successfully transition to independence while reducing the risks of homelessness, unemployment, and instability after foster care. By providing housing, life skills training, and guidance, the program helps Nonminor Dependents build a strong foundation for independent living and self-sufficiency. \n\nTHP-NMD provides three types of supervised housing:\nSingle-Site Housing – Apartments or dorm-style housing where multiple NMDs live in the same building with onsite support staff.\nScattered-Site Housing – Individual apartments or shared housing located throughout the community, with regular case management visits.\nHost Family Model – NMDs live with a caring adult mentor (host family) who provides support and guidance while maintaining independence.",
+    "eligibility": "To qualify for THP-NMD, youth must:\nBe between 18 and 21 years old\nBe in Extended Foster Care (EFC) under a court-ordered placement\nHave a Transitional Independent Living Plan (TILP)\nBe engaged in school, work, training, or treatment\nBe willing to participate in program activities and case management.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 19-05",
+    "age_range": {
+      "min": 18,
+      "max": 21
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "housing",
+      "family",
+      "community-based",
+      "youth",
+      "transition"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "FFA",
+    "description": "A Foster Family Agency (FFA) is a public agency or private organization, organized and operated on a nonprofit basis. FFAs recruit, approve, provide training for, and provide support and services to Resource Families.  FFAs coordinate with county placing agencies to find homes for dependent children in need of care. All homes within an FFA must be RFA approved. Youth may be placed in an FFA RFA home if they can safely be maintained at a home-based level of care, just as in county-based RF homes. FFAs could have standard RFA home, or could have treatment homes that run ISFC and/or TFC programs for higher needs youth.",
+    "eligibility": "Youth may be placed in a RF home when the youth's needs can be safely met by the caregiver, placing agency, and Child and Family Team - including both natural and formal supports.",
+    "partners_involved": "CWS\nProbation\nBehavioral Health",
+    "state_direction": "CCL-23-02\nCCL-22-19\nCCL-20-13\nCCL-20-03\nCCL-01-02\nCCL-16-11",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "a RF home when the youth's needs can be safely met by the caregiver",
+      "placing agency",
+      "and Child",
+      "Family Team - including both natural",
+      "formal supports. A Foster Family Agency (FFA) is a public agency",
+      "private organization",
+      "organized",
+      "operated on a nonprofit basis. FFAs recruit",
+      "approve",
+      "provide training for",
+      "and provide support",
+      "services to Resource Families.  FFAs coordinate with"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "therapy",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "Group Home",
+    "description": "Historical Background: Group homes provided the most restrictive out-of-home placement option for children in foster care. They provided a placement option for children with significant emotional or behavioral problems who require more restrictive environments. The licensed group home is defined as a facility of any capacity which provide 24-hour nonmedical care and supervision to children in a structured environment, with such services provided at least in part by staff employed by the licensee. Group homes run the gamut from large institutional type environments which provide an intense therapeutic setting, often called \"residential treatment centers,\" to small home environments which incorporate a \"house parent\" model. As a result, group home placements provide various levels of structure, supervision and services.\nGroup homes may offer specific services targeted to a specific population of children or a range of services depending on the design of their program. These services include substance abuse, minor-parent (mothers and babies), infant programs, mental health treatment, vocational training, mental health day treatment, sex offenders, wards only, emancipation and reunification. Many programs provide more than one service and list their primary service function as reunification of children with the biological family. A high number also list their primary function as emancipation.",
+    "eligibility": "Per WIC 17736(b), group homes are generally no longer allowable as a placement for children/youth in foster care, with the exception of licensed group homes that have been vendorized by a Regional Center to serve Regional Center clients.",
+    "partners_involved": "CWS\nProbation\nRegional Center",
+    "state_direction": "ACIN I-49-20",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "medical",
+      "housing",
+      "substance",
+      "family",
+      "therapy",
+      "mental health",
+      "youth",
+      "24-hour care"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "Small Family Home (Non-Vendorized)",
+    "description": "A Small Family Home (SFH) is a for-profit licensed facility that provides 24-hour care for six or fewer children, often those with disabilities, requiring special care and supervision. Staff in the home may include the operator of the home, assistant caregivers, on-call assistants, and other providers. For SFH's not vendorized by Regional Center, Child Welfare must negotiate the services provided and rate paid for each placement. Services in a SFH may include:\nChild activities\nParticipating with agencies and other responsible persons in planning for and providing the needs of the child.\nEnsuring that the child is clean and providing the child with training in personal cleanliness and hygiene.\nProtecting the child from home accidents.\nMaking provisions for the child to attend available community treatment or training programs when the child has needs which can be met by such programs.\nAssisting the child in the development of goals and encouraging them to reach those goals.\nSupervising the provision of basic services within the home.\nUnless restricted by the case plan adopted by the court or other court order,  permit and facilitate connections between the child and the child’s family and non-relative extended family members. \nProvide access and information reagrding vocational and other postsecondary educational options.",
+    "eligibility": "Small Family Homes are generally no longer allowable as a placement for children/youth in foster care, with the exception of licensed SFHs that have been vendorized by a Regional Center to serve Regional Center clients.",
+    "partners_involved": "CWS\nProbation\nRegional Center",
+    "state_direction": "Licensing (CCL) under\nTitle 22 Regulations.",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "family",
+      "therapy",
+      "community-based",
+      "youth",
+      "24-hour care",
+      "education"
+    ]
+  },
+  {
+    "system": "Child Welfare",
+    "type": "Placement",
+    "category": "Child Welfare - Placement",
+    "name": "Supervised Independent Living Placement (SILP)",
+    "description": "A SILP is a placement option for NMDs who are in Extended Foster Care (EFC). The SILP is intended to provide young adults with the opportunity for highly independent living experiences while receiving financial support along with the safety net of a SW to provide support and services for problems that arise. A SILP may be with parent or guardian from whom the youth was removed .",
+    "eligibility": "NMDs, including married NMDs, are responsible for finding their own SILP; however, the SILP must still be approved by the SW.\n\nNMDs receiving a Dual Agency Rate are not appropriate for a SILP.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 17-83",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "youth",
+      "transition",
+      "family"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "High Fidelity Wrap",
+    "description": "The California High Fidelity Wrap (HFW) Model is a coordinated effort between Probation and Behavioral Health to provide foster youth stepping down from an STRTP to a home-based placement with after care services. The co-created model provides the minimum standards for Wraparound to serve youth transitioning out of congregate care, as required by FFPSA IV. Wraparound (CA HFW) is a strengths-based planning process that occurs in a team setting to engage with children, youth, and their families. A child and family team is formed and works directly with the family as they identify their own needs and strengths. The team develops a service plan that describes specific strategies for meeting the needs identified by the family. The service plan is individualized, with strategies that reflect the child and family’s culture and preferences. California Wraparound is intended to allow children to live and grow up in a safe, stable, permanent family environment. For children and families in the foster care system, the Wraparound process can:\n- Enhance strengths by creating a strength-based intervention plan with a child and family team;\n- Promote youth and parent involvement with family voice, choice, and preference;\n- Use community-based services;\n- Create independence and stability;\n- Provide services that fit a child and family’s identified needs, culture, and preferences;\n- Create one plan to coordinate responses in all life domains; and\n- Focus on achieving positive goals.\n\nCDSS/DHCS are pending final instruction for HFW, and it is anticipated programming will be updated regularly while establishing the CA Wraparound Standards.",
+    "eligibility": "Required for youth stepping down from an STRTP to a home-based placement for six months.\n\nThe service can only be provided by a certified provider.",
+    "partners_involved": "CWS\nProbation\nBehavioral Health",
+    "state_direction": "Updated ACL pending\nCA Wraparound Standards (WIC 4096.6)\nACIN I-52-25\nACL 18-81\nACL/BHIN 21-116/21-061",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "family",
+      "community-based",
+      "mental health",
+      "youth",
+      "transition",
+      "wraparound"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "Child and Family Team Meetings",
+    "description": "Child and Family Teams (CFTs) bring together loved ones and experts to support the child in reaching their potential and are dedicated to helping the family thrive.\n- CFTs draw on a child and family’s strengths, experiences, knowledge, and network of support to create a plan for the safety, stability, and well-being of the children and family.\n- The CFT process is intended to be inclusive of multiple formal support systems a family may need, as well as the informal, community, and natural supports that surround a family.\n- The CFT process provides children and families opportunities to use their experiences and contribute their ideas to help them reach their goals.\nEvery child and family is unique, requiring support be tailored with them. The Chid and Family Team meets at regular intervals in a family's case with Probation to include: \n- After the initial removal\n- For each change of placement\n- Prior to court hearings \n- At the request of any team member to address issues of placement and service planning",
+    "eligibility": "Every youth involved with the child welfare system Probation that has a foster care order has a Child and Family Team.",
+    "partners_involved": "CWS\nProbation\nBehavioral Health",
+    "state_direction": "ACL 25-08\nACIN I-35-24\nACL 22-73\nACL 22-35",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "community-based",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "Intesive Services Foster Care (ISFC) Family Only Support",
+    "description": "Allows for county use of the ISFC level payment on\nan urgent, time-limited basis (up to 60 days) to any RF for\nchildren/NMD with urgent placement needs, or to any RF on\nan on-going basis, based on the intensive needs of the\nchild/NMD if they [the RF] meet a level of specified training\nand competencies matched to the child’s needs at this level\nand the rate is based on the Level of Care Protocol.",
+    "eligibility": "Foster youth who have Intensive Services Foster Care (ISFC) needs.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACIN I-12-25\nACL 17-11",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "Intesive Services Foster Care (ISFC)  Services Only Support",
+    "description": "The SO rate may be used by the county to secure services and supports from an FFA, Short Term Residential Therapeutic Program (STRTP), Community Based Organization (CBO), Tribal service provider, or other appropriate public or private entity. This is to ensure that services continue to be provided for children/NMDs whose intensive needs make them eligible for ISFC program-level services and to stabilize their placement even if their RF is not affiliated with an ISFC program. There is no limitation on the length of time the SO rate may be used for a child/NMD. Counties also have flexibility to determine the amount of the SO rate they intend to use, which means the county may pay a portion of SO rate or the entire amount, as long as the county is satisfying its obligation to meet the needs of the child/NMD.\n\nThe SO rate is intended to be used flexibly based on the needs of the child/NMD and families to support permanency and/or placement stability efforts. Services provided through this rate should be documented in the child’s/NMD’s case plan. These funds could be used to pay for oversight and support of the RF until a new ISFC provider can be secured.",
+    "eligibility": "Foster youth who have Intensive Services Foster Care (ISFC) needs, in a home-based placement not affiliated with a Foster Family Agency (FFA)",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACIN I-12-25\nACL 18-88",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "a home-based placement not affiliated with a Foster Family Agency (FFA) The SO rate may be used by the"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "housing",
+      "youth",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "Static Rate",
+    "description": "Static Criteria is a list of behaviors or conditions that have been present within the last 12 months and indicate the need to provide a higher level of care and/or supervision for a youth, prior to the use of the Level of Care Protocol, in order to secure a safe placement with an approved RF for a youth presenting with higher supervision needs and to support the RF with a temporary rate for the enhanced level of care and supervision.",
+    "eligibility": "The exhaustive list of chronic behavioral or medical indicators that permit the use of the Static rate include:\n• Adjudicated violent offenders\n• Significant property damage\n• Sex offenders/perpetrators\n• Aggressive and assaultive\n• Animal Cruelty\n• Commercial Sexual Exploitation of Children (CSEC)\n• Contraction of pandemic viruses, such as COVID-19\n• Eating Disorder\n• Fire Setting\n• Gang activity\n• Habitual runaway\n• Habitual truancy\n• Medically Fragile\n• SHCN\n• Psychiatric Hospitalization(s)\n• Severe mental health issues including suicidal ideation and/or self-harm\n• Substance use/abuse",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 16-79\nACL 17-11\nACL 21-17\nACIN I-73-23",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "youth"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "Respite",
+    "description": "Respite is a request by the youth's current Resource Family to have a break. Respite care allows for the youth to be placed with another caregiver for a short period of time – up to 14 days per month. These services are not provided for the purpose of routine, on-going child care. Respite is especially helpful when foster children have complex care needs. Respite care can enable the caregiver(s) to:\n- Reduce stress by being able to run errands in a much more expedient fashion\n- Reduce stress by allowing some “me” time or “down” time to re-energize\n- Maintain their physical health by allowing regular visits with their own physician\n- Maintain their mental/emotional health by taking time to attend support groups\nA respite caregiver shall be an approved relative or nonrelative extended family member (NREFM), an approved Resource Family, or certified respite care provider.",
+    "eligibility": "Each county provides its own Respite plan, eligibility criteria, and payment rates.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACIN I-51-16",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "respite",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "Peer Partners",
+    "description": "Over the past decade, as child welfare, probation, and behavioral health agencies and community service providers have worked towards authentically engaging the voices of children, youth, parents, and families, the integration of peer partners into child and family serving programs has emerged as a central value and practice of engagement.\n\nThere is growing evidence that peer partner programs are an essential strategy to promote engagement and increase reunification among families and children that are involved in the child welfare system. Outcomes from working with peer partners include: instilling hope, promoting self-advocacy, connecting families to services, and promoting an agency culture shift to one that engages authentically with families. \n\nPeer partners have four key functions: \n(1) to ensure clients are equal partners, if not leaders, in the development and implementation of their behaviorally-based service plans, case plans, and treatment plans; \n(2) to represent the needs and perspectives of their client to internal and external stakeholders and decision makers within the system of care; \n(3) to ensure that their client has access to a comprehensive array of prevention and support services that meet their individual needs and increase family engagement; and \n(4) to ensure that these services are family-centered; easily accessible; respectful of cultural, ethnic, and other community characteristics; and stigma free.",
+    "eligibility": "Counties can choose how to identify and provide peer supports. Peer partners could include partners for:\n- Current foster youth\n- Bio Parents\n- Caregivers",
+    "partners_involved": "CWS\nProbation\nBehavioral Health",
+    "state_direction": "Peer Partner Funding Matrix",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "programs has emerged as a central value",
+      "practice of engagement"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "family",
+      "therapy",
+      "peer support",
+      "community-based",
+      "mental health",
+      "youth"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "(Emergency) Child Care Bridge",
+    "description": "The Emergency Child Care Bridge Program (Bridge Program) aims to facilitate the immediate placement of children within the foster care system into a stable child care and development setting by helping relatives, parenting youth under the jurisdiction of the court, or foster/resource families obtain child care services upon placement.  It provides time-limited vouchers for child care and child care navigator services for families to assist with accessing long-term child care. There is also a Trauma-Informed Care (TIC) training and coaching component for child care providers to enhance their ability to provide nurturing and safe environments for children. These solutions are used at the time of placement and are meant to stabilize children in the best possible settings ensuring that caretakers have adequate support to balance their work and home lives.",
+    "eligibility": "Families may receive a time-limited voucher to assist with child care costs for children in the foster care system birth through age 12, and for youth with exceptional needs up to age 21. A voucher may be issued for an initial six-months, and then renewed for an additional six months, or until the child is successfully transitioned into long-term, subsidized child care. Eligibility may be extended beyond 12 months if there is a compelling reason, at the discretion of the county.",
+    "partners_involved": "CWS",
+    "state_direction": "ACL 18-80E\nCCB 22-27",
+    "age_range": {
+      "min": null,
+      "max": 21
+    },
+    "county_restrictions": [
+      "the foster care system birth through age 12",
+      "and for youth with exceptional needs up to age 21. A voucher may be issued for an initial six-months",
+      "and then renewed for an additional six months",
+      "or until the child is successfully transitioned into long-term",
+      "subsidized child care. Eligibility may be extended beyond 12 months if there is a compelling reason",
+      "at the discretion of the"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "trauma",
+      "family",
+      "youth",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "Independent Living Program (ILP)/Independent Living Services (ILS)",
+    "description": "The Independent Living Program provides training, services, and benefits to assist current and former foster youth in achieving self-sufficiency prior to, and after leaving, the foster care system. In California, each county has the flexibility to design services to meet a wide range of individual needs and circumstances, and to coordinate services with other Federal and State agencies engaged in similar activities.\n\nThe ILP is designed to assist current and former foster youth achieve self-sufficiency.  Some of the services provided are:\nDaily living skills\nMoney management\nDecision making\nBuilding self-esteem\nFinancial assistance with college or vocational schools\nEducational Resources\nHousing (Transitional Housing)\nEmployment",
+    "eligibility": "Youth are eligible for ILP services from age 16 to the day before their 21st birthday, provided one of the following criteria is met:\nThe youth was/is in foster care at any time from their 16th to their 19th birthday.\nThe youth was placed in out-of-home care by a tribe or tribal organization between their 16th and 19th birthdays.\nThe youth is a former dependent who entered into a kinship guardianship at any age and is receiving/received Kinship Guardianship Assistance Payments (Kin-GAP) between the ages of 16 and 18.\nThe youth is a former dependent who entered into a Non-Related Legal Guardianship (NRLG) after attaining age 8 and is receiving/received permanent placement services.",
+    "partners_involved": "CWS \nProbation",
+    "state_direction": "ACIN I-61-02\nACIN I-39-12",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "achieving self-sufficiency prior to",
+      "and after leaving",
+      "the foster care system. In California",
+      "each"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "housing",
+      "youth",
+      "transition",
+      "education"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "CDSS Provided TA (System of Care Strike Team)",
+    "description": "The System of Care (SOC) Strike Team is a child specific working group, in which connects/conducts warm hand offs to assist with a path forward when youth are staying in non-licensed settings. This is offered in addition to other Technical Assistance calls and it includes key local and state members to ensure that all system partners join to meet the needs of individual youth in foster care. The team from the state is a consistent set of individuals from CDSS, the Departments of Developmental Services, Health Care Services, and Education, helping to identify and secure additional supports and services the county may not yet have considered or been able to identify. When the call is scheduled to discuss a Tribal youth, a representative from the CDSS Office of Tribal Affairs participates.",
+    "eligibility": "No specific eligibility criteria",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "Please email: SOCTACALLS@dss.ca.gov to access this resource",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "which connects/conducts warm hand offs to assist with a path forward when youth are staying in non-licensed settings. This is offered in addition to other Technical Assistance calls",
+      "it includes key local",
+      "state members to ensure that all system partners join to meet the needs of individual youth in foster care. The team from the state is a consistent set of individuals from CDSS",
+      "the Departments of Developmental Services",
+      "Health Care Services",
+      "and Education",
+      "helping to identify",
+      "secure additional supports",
+      "services the"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "education",
+      "youth"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "Catalyst Center",
+    "description": "The Catalyst Center is a training and technical assistance organization operated under the leadership of the California Alliance of Child and Family Services that represents the interests of child and family serving professionals in California. The Catalyst Center is committed to strengthening connections between research, policy, and practice to inform and lead capacity building efforts across the State of California for providers in the fields of child and family services. Contracted by the California Department of Social Services (CDSS), the Catalyst Center offers an array of consultative services and supports for placing entities, providers, behavioral health, educational partners, tribes, and Child and Family Team members.",
+    "eligibility": "No specific eligibility criteria",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "To inquire about the Children’s Services Foundation’s\nservices please contact the System of Care Technical\nAssistance at SOCTACALLS@dss.ca.gov.",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "professionals in California"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "mental health",
+      "education",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "University of Davis Health TEAM",
+    "description": "Provides case consultations to improve the quality of life and placement stability for youth with neurodevelopmental disorders and psychiatric comorbidity, including autism, ADHD, traumatic brain injury, PTSD, depression, and more. Services will include diagnostic clarification, medication and treatment  recommendations, resources, and strategies to stabilize the youth.",
+    "eligibility": "Consultation for youth and families can be accessed by counties, Tribes, STRTPs, service providers, schools, regional centers or directly by families via referral to CDSS.",
+    "partners_involved": "CWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "Request a referral form and further information by emailing CCR@dss.ca.gov",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "trauma",
+      "therapy",
+      "autism",
+      "mental health",
+      "youth"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "Ascend Diagnostic and Support Services",
+    "description": "Provides case consultations for youth with a dual diagnosis of developmental disability (e.g. Intellectual disability or autism) and trauma or other mental health challenges.  Services will be tailored to fit the needs of the youth and may include strengthening collaboration and teaming with system of care partners, individual coaching of family or team members to develop connection and trust with the youth and family and manage youth behaviors, strategies for modifying mental health interventions to meet the needs of youth with developmental disabilities and trauma, strategies to preserve placement or assist with transitioning the youth, and other resources.",
+    "eligibility": "Consultations can be accessed by providers including STRTPS, FFAs, regional centers, counties, or directly by families via referral to CDSS.",
+    "partners_involved": "CWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "Request a referral form and further information by\nemailing CCR@dss.ca.gov",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "developmental",
+      "trauma",
+      "family",
+      "dd",
+      "autism",
+      "mental health",
+      "youth",
+      "transition"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "General State Technical Assistance",
+    "description": "CDSS provides facilitated technical assistance on an array of topics. These calls bring together the county placing agency, county behavioral health, other system partners, and, as appropriate, the STRTP provider to discuss the following:\n- STRTP placement options when a county needs support identifying a provider that will be a good fit;\n- Eliminating barriers to a youth’s placement in an STRTP;\n- Any issue(s) with a youth’s current placement and what resources can be put in place to alleviate those issues; and\n- Placement termination notices and what, if any, behavioral/mental health or other supports might preserve the placement or would support the youth in a transition to another placement if the current placement is no longer viable.",
+    "eligibility": "No specific eligibility criteria.",
+    "partners_involved": "CWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "If a county would benefit from a technical assistance call, please contact, SOCTACALLS@dss.ca.gov",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "mental health",
+      "youth",
+      "transition"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Service",
+    "category": "Probation - Services",
+    "name": "Family Urgent Response System (FURS)",
+    "description": "The Family Urgent Response System (FURS) is a coordinated statewide, regional, and county-level system designed to provide collaborative and timely state-level phone-based response and county-level in-home, in-person mobile response during situations of instability, to preserve the relationship of the caregiver and the child or youth.\nFURS Services Include:\n- A toll-free hotline available 24 hours a day, 7 days a week staffed with caring counselors trained in conflict resolution and de-escalation techniques for children and youth impacted by trauma.\n- County Mobile Response and Stabilization Teams also available 24 hours a day, 7 days a week.\n- In-home de-escalation, stabilization, conflict resolution, and support services and resources.\n- Ongoing support services beyond the initial mobile response.\n- Hotline and mobile response staff trained in working with children and families who have experienced trauma.",
+    "eligibility": "Current and former foster youth and their caregivers can call the FURS hotline for support.",
+    "partners_involved": "Child Welfare",
+    "state_direction": "ACL 20-89\nACIN I-29-21",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "youth",
+      "trauma",
+      "family"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "Resource Family (Relative and Non-Relative)",
+    "description": "An individual or family approved by child welfare under the Resource Family Approval (RFA) program to provide care for a child/youth or NMD who is under the jurisdiction of Juvenile Court under a WIC 300 or 600 petition. Families approved under RFA consist of relatives/NREFMs and non-relatives. RFs are home-based placements who can take children with varying demographics (age, gender, etc) and needs based on their preferences and approval status. RFs may be trained and approved by Child Welfare, Probation, and Foster Family Agencies; the approving entity is also the entity that monitors the RF home.",
+    "eligibility": "Youth may be placed in a RF home when the youth's needs can be safely met by the caregiver, placing agency, and Child and Family Team - including both natural and formal supports. \n\nYouth may be placed with a relative/NREFM prior to full RFA if the home meets emergency placement criteria, including an assessment of 361.3/361.4 727.05 WIC factors.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 16-10\nWIC 16519.5\nRFA Written Directives v8.0\nWIC 361.3 and 361.4 WIC 727.05",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "Tribally Approved Home (TAH)",
+    "description": "A home that has met the federal requirements for background checks and a home health and safety assessment, as assessed by the tribe's/tribal agency's socially and cutlurally approporaite standards. The TAH must be approved by the specific child's tribe.",
+    "eligibility": "Indian children who are receiving placement approval from their specific tribe. If a sibling set with a non-Indian child needs home-based placement, the home must be RFA approved, the non-Indian child cannot be placed in a TAH.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 19-71\nIndian Child Welfare Act (ICWA)\n(25 U.S.C. 1915).",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "youth"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "Interstate Compact for the Placement of Children (ICPC) \nAKA Out of State Placement - non-congregate care",
+    "description": "Placement of youth with a relative/NREFM who has been approved by the caregiver's state of residence. The Interstate Compact on the Placement of Children (ICPC) establishes legal and administrative procedures for the interstate placement of children.\nThe ICPC is a contract among all 50 states, the District of Columbia, and the U.S. Virgin Islands authorizing them to work together to ensure that children who are placed across state lines for foster care or adoption receive adequate protection and support. Interstate placement requests for relative homes, foster family homes and prospective adoptive homes are processed by counties and licensed adoption agencies.",
+    "eligibility": "Any youth in out of home care can be considered for an ICPC home based placement when a relative/NREFM is identified and approved by the state in which they reside. \nChild Welfare Probation cannot place youth in congregate care outside of California.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 17-50",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "youth",
+      "adoption",
+      "family"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "ISFC",
+    "description": "Sometimes children may require more intensive structured care. Intensive Services Foster Care (ISFC) provides more intensive care within a Resource Family. ISFC Resource Families receive additional training and support in order to provide more intensive care to children who may have complex mental health, behavioral, or medical needs.The program requires specially trained resource parents and professional and paraprofessional support. The ISFC program provides core services and supports to a child/youth in foster care. These core services may include, but are not limited to arranging access to mental health treatment, providing trauma informed care and providing transitional support from foster placement to permanent home placement.The goal is to ensure that the services needed are provided in a home-based family care setting or to prevent placement into, or assistance stepping down from, a Short Term Residential Therapeutic Program (STRTP). Along with additional services and supports, the caregiver is paid the highest home-based foster care rate available.",
+    "eligibility": "An eligible child for ISFC is a child or nonminor dependent in foster\ncare who requires a higher level of care of supervision as determined by the Level of\nCare Rate Determination Protocol (LOCP) - youth who score a five in either the Health or Behavioral Domains of the LOCP qualify for ISFC. The placing agency's Interagency Placement Committee can also approve a youth for ISFC.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 18-25",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "medical",
+      "housing",
+      "trauma",
+      "family",
+      "therapy",
+      "mental health",
+      "transition",
+      "youth"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "Home Based IMC (EISFC or ISFC+)",
+    "description": "A program-specific or a child-specific rate for a county-designed Innovative Model of Care (IMC) providing an innovative program or model of care and services to support foster children and Non-Minor Dependents (NMDs) with complex needs unable to be met in existing Aid to Families with Dependent Children-Foster Care (AFDC-FC) programs or using alternative funding sources. For youth who have enhanced care, supervision, and service needs, not met by any other available placement/program, as a way to divert from residential care. Home-based IMC, sometimes called Enhanced ISFC (EISFC) or ISFC+, can be created as an individual model for the resource parent home (known as a professional parent model), or as an individual model per youth who needs placement. IMC gives counties and caregivers ability to be innovative in creating a set of services and supports tailored to the complex care youth. The plan is negotiated between the county and the potential caregiver. The IMC Rate is created in partnership with County or Tribe, the potential placement, and the CDSS Rate’s Oversight Unit based on the  needs and supports  being provided by the potential placement.\n\nIMC could encompass innovative models across counties, including Two Family Homes, programs that utilize old MTFC/ITFC principles and programming, and partnerships with behavioral health, respite, and other providers.",
+    "eligibility": "Youth with complex care needs can be assessed for an IMC placement.\nCaregivers who are able and willing to meet the needs of complex care youth, may apply to be an IMC home. \nBoth child specific, and home/facility based IMC, require approval from CDSS.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 22-21\nACL 21-119\nACL 21-143",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "existing Aid to Families with Dependent Children-Foster Care (AFDC-FC) programs",
+      "using alternative funding sources. For youth who have enhanced care",
+      "supervision",
+      "and service needs",
+      "not met by any other available placement/program",
+      "as a way to divert from residential care. Home-based IMC",
+      "sometimes called Enhanced ISFC (EISFC)",
+      "ISFC+",
+      "can be created as an individual model for the resource parent home (known as a professional parent model)",
+      "or as an individual model per youth who needs placement. IMC gives counties",
+      "caregivers ability to be innovative in creating a set of services",
+      "supports tailored to the complex care youth. The plan is negotiated between the"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "respite",
+      "housing",
+      "family",
+      "mental health",
+      "youth"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "Congregate Care IMC (STRTP of One or Two",
+    "description": "A program-specific or a child-specific rate for a county-designed Innovative Model of Care (IMC) providing an innovative program or model of care and services to support foster children and Non-Minor Dependents (NMDs) with complex needs unable to be met in existing Aid to Families with Dependent Children-Foster Care (AFDC-FC) programs or using alternative funding sources. Congregate care IMC can provide care and services for a child or NMD in foster care with complex needs who would not otherwise be successful if placed in an STRTP congregate care setting.  Congregate care based IMC, sometimes called an STRTP of One or STRTP of Two, can be created as a program model, or as an individual model per youth who needs placement. This IMC should seek to provide an innovative approach using, in new and original ways, intensive child-to-staff ratios, multi-systemic involvement, intensive clinical supports, intensive care coordination that is focused on a timely transition to a less restrictive setting, and utilize trauma-informed models, including intensive home-based services, wraparound services, and after care supports.\nAn STRTP of One or Two must comply with all the licensing and child welfare requirements that apply to all STRTPs. While an STRTP of One IMC may be either program-specific or child-specific, an STRTP of Two IMC is likely to be program-specific.  The IMC Rate is created in partnership with County or Tribe, the potential placement, and the CDSS Rate’s Oversight Unit based on the  needs and supports  being provided by the potential placement.",
+    "eligibility": "Youth with complex care needs can be assessed for an IMC placement.\nCaregivers who are able and willing to meet the needs of complex care youth, may apply to be an IMC home. \nBoth child specific, and home/facility based IMC, require approval from CDSS.",
+    "partners_involved": "CWS\nProbation\nCounty Mental Health Plan",
+    "state_direction": "ACL 22-21\nACL 21-119\nACL 21-143",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "partnership with"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "trauma",
+      "youth",
+      "transition",
+      "wraparound"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "STRTP",
+    "description": "An STRTP provides short-term intensive care and supervision, services and supports, treatment, and 24-hour care and supervision of children/youth and NMDs in a congregate care setting. \n\nAn STRTP is intended to serve children/youth and NMDs who need a level of care and supervision that cannot be safely met in a family-based setting and who are not in need of inpatient services.",
+    "eligibility": "Youth with complex care needs not able to be met safely in a home-based placement, must have assessment and approval by the following three in order to be in an STRTP placement:\n- Interagency Placement Committee (IPC)\n- Qualified Individual (QI)\n- Juvenile Court\n\nTo qualify for placement in an STRTP, the youth must meet all of Criteria One and at least one of Criteria Two as authorized by the IPC screening, as follows:\n\nCriteria One (1):\n- Inpatient care in a licensed health care facility is not required, and\n- A determination has been made in conjunction with the Child and Family Team which indicates that the child/youth/NMD requires the level of services provided by an STRTP.\n\nCriteria Two (2):\n- The child/youth/NMD meets the medical necessity criteria for Medi-Cal Specialty Mental Health Services as provided by an STRTP, or\n- The child/youth/NMD is assessed as Seriously Emotionally Disturbed, or\n- A licensed mental health professional assessed the youth as requiring the level of services provided in an STRTP in order to meet the youth’s behavioral or therapeutic needs",
+    "partners_involved": "CWS\nProbation\nRegional Center\nBehavioral Health",
+    "state_direction": "ACL 17-122\nSTRTP Interim Licensing Standards v5\nACL 21-114\nACL 21-113/BHIN 21-060\nACL 19-94",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "youth",
+      "24-hour care",
+      "family"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "CTF",
+    "description": "Community Treatment Facility (CTF):  A CTF provides 24-hour non-medical care and mental health treatment services to children in a secure environment, which are less restrictive than a hospital.  A facility's program design is subject to program standards developed and enforced by the State Department of Health Care Services (DHCS).",
+    "eligibility": "Youth with complex care needs not able to be met safely in a home-based placement or lower levels of congregate care, must have assessment and approval by the following three in order to be in an STRTP placement:\n- Interagency Placement Committee (IPC)\n- Qualified Individual (QI)\n- Juvenile Court \n- Conservator (as applicable)\n\nFor the IPC screening to determine the appropriateness of treatment and placement in a CTF, the youth must be determined by a mental health care professional to be described as stated below:\n\nThe child/youth/NMD must meet one (1) or more of 1 a, or b, or c and items 2, 3, and 4 below.\n\n1) The child/youth/NMD must have met the Seriously Emotionally Disturbed (SED) criteria as defined below.\na) Impairment in at least two (2) of the following areas: \nSelf-Care\nSchool Functioning\nFamily Relationships\nFunctioning in the community And either,\nRisk of removal from home or has already been removed, or\nThe mental health disorder and impairments have been present for more than six (6) months, or are likely to continue for more than one (1) year without treatment.\nb) The child/youth/NMD displays one (1) of the following:\nPsychotic features\nRisk of suicide\nRisk of violence to other due to mental health disorder\nc) The youth is a special education student that is determined to have an emotional disturbance.  This means a condition exhibiting one (1) or more of the following characteristics over a long period of time and to a degree that adversely affects a child's educational performance: \nAn inability to learn that cannot be explained by intellectual, sensory, or health factors\nAn inability to build or maintain satisfactory interpersonal relationships with peers and teachers\nInappropriate types of behaviors or feelings under normal circumstances\nA general pervasive mood of unhappiness or depression\nA tendency to develop physical symptoms or fears associated with personal or school problems.\n2) The youth may require a period of containment to participate in, and benefit from, mental health treatment, and the CTF program must be reasonably expected to improve the youth's mental health disorder.\n3) Other, less restrictive interventions must have been attempted and proved insufficient; or, the youth is in an inpatient psychiatric hospital. This applies to youth's placed in and out of state.\nThis includes denial of admission into an STRTP through an IPC screening where it is determined the youth would benefit from a higher level of care.\nThis may include outpatient therapy, family counseling, case management, family preservation efforts, special education classes, or nonpublic schooling.\n4) There must be consent for treatment/placement (by youth over age 18) or the youth must have a conservator appointed",
+    "partners_involved": "CWS\nProbation\nRegional Center\nBehavioral Health",
+    "state_direction": "ACL 21-114\nACL 21-113/BHIN 21-060",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "therapy",
+      "community-based",
+      "mental health",
+      "youth",
+      "24-hour care"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "CCCPP",
+    "description": "The Children’s Crisis Continuum Pilot Program (CCCPP) provided funding for a select number of counties or regional collaboratives throughout California to implement a crisis continuum of care for foster youth with high acuity needs. The purpose of the Children’s Crisis Continuum is to fully integrate the system of care for foster youth enabling a seamless transition between service settings and to provide stabilization and treatment to foster youth with high acuity needs within the least restrictive setting possible. The program will have access to ISFC beds specifically selected at partnering FFAs to support youth with high level mental health or substance use disorder needs. Pilot youth may require a combination of highly individualized stabilization services, inpatient treatment, or intensive transition planning and aftercare services. \n\nPilot funding can be used to support activities including but not limited to:\n-Investment in infrastructure and start up behavioral health services and placements for foster youth including Intensive Services Foster Care (ISFC) homes, Children’s Crisis Residential Programs, (CCRPs), Crisis Stabilization Units (CSUs), and Psychiatric Health Facilities (PHFs).\n- Specialized services and supports for foster youth such as child-specific recruitment, intensive family finding and engagement, respite care, and additional therapeutic foster care options.",
+    "eligibility": "Counties awarded a CCCPP grant:\n- Fresno & Madera Counties\n- Los Angeles County\n- Monterey County\n- Riverside & San Bernardino Counties\n- San Diego County\n- San Francisco, Contra Costa, Marin, Solano, and\nSonoma Counties\n- San Luis Obispo County\n- Stanislaus, Merced, and San Joaquin Counties\n\nCounties select their own specific eligibility criteria as reviewed and accepted by CDSS at the time of grant awarding.",
+    "partners_involved": "CWS\nBHS\nProbation",
+    "state_direction": "ACL 21-119",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "respite",
+      "housing",
+      "family",
+      "therapy",
+      "mental health",
+      "transition",
+      "youth",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "Transitioal Housing Program (THP) - NMD",
+    "description": "A placement program available to NMDs ages 18 up to 21. Offered by a licensed transitional housing placement provider (THPP) to provide safe housing for NMDs and assistance in developing the skills needed for transitioning to independent living with assistance from a case manager. \n\nThe Transitional Housing Program (THP)-NMD provides current and former foster youth additional supports they need to successfully transition to independence while reducing the risks of homelessness, unemployment, and instability after foster care. By providing housing, life skills training, and guidance, the program helps Nonminor Dependents build a strong foundation for independent living and self-sufficiency. \n\nTHP-NMD provides three types of supervised housing:\nSingle-Site Housing – Apartments or dorm-style housing where multiple NMDs live in the same building with onsite support staff.\nScattered-Site Housing – Individual apartments or shared housing located throughout the community, with regular case management visits.\nHost Family Model – NMDs live with a caring adult mentor (host family) who provides support and guidance while maintaining independence.",
+    "eligibility": "To qualify for THP-NMD, youth must:\nBe between 18 and 21 years old\nBe in Extended Foster Care (EFC) under a court-ordered placement\nHave a Transitional Independent Living Plan (TILP)\nBe engaged in school, work, training, or treatment\nBe willing to participate in program activities and case management.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 19-05",
+    "age_range": {
+      "min": 18,
+      "max": 21
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "housing",
+      "family",
+      "community-based",
+      "youth",
+      "transition"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "FFA",
+    "description": "A Foster Family Agency (FFA) is a public agency or private organization, organized and operated on a nonprofit basis. FFAs recruit, approve, provide training for, and provide support and services to Resource Families.  FFAs coordinate with county placing agencies to find homes for dependent children in need of care. All homes within an FFA must be RFA approved. Youth may be placed in an FFA RFA home if they can safely be maintained at a home-based level of care, just as in county-based RF homes. FFAs could have standard RFA home, or could have treatment homes that run ISFC and/or TFC programs for higher needs youth.",
+    "eligibility": "Youth may be placed in a RF home when the youth's needs can be safely met by the caregiver, placing agency, and Child and Family Team - including both natural and formal supports.",
+    "partners_involved": "CWS\nProbation\nBehavioral Health",
+    "state_direction": "CCL-23-02\nCCL-22-19\nCCL-20-13\nCCL-20-03\nCCL-01-02\nCCL-16-11",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "a RF home when the youth's needs can be safely met by the caregiver",
+      "placing agency",
+      "and Child",
+      "Family Team - including both natural",
+      "formal supports. A Foster Family Agency (FFA) is a public agency",
+      "private organization",
+      "organized",
+      "operated on a nonprofit basis. FFAs recruit",
+      "approve",
+      "provide training for",
+      "and provide support",
+      "services to Resource Families.  FFAs coordinate with"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "therapy",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "Group Home",
+    "description": "Historical Background: Group homes provided the most restrictive out-of-home placement option for children in foster care. They provided a placement option for children with significant emotional or behavioral problems who require more restrictive environments. The licensed group home is defined as a facility of any capacity which provide 24-hour nonmedical care and supervision to children in a structured environment, with such services provided at least in part by staff employed by the licensee. Group homes run the gamut from large institutional type environments which provide an intense therapeutic setting, often called \"residential treatment centers,\" to small home environments which incorporate a \"house parent\" model. As a result, group home placements provide various levels of structure, supervision and services.\nGroup homes may offer specific services targeted to a specific population of children or a range of services depending on the design of their program. These services include substance abuse, minor-parent (mothers and babies), infant programs, mental health treatment, vocational training, mental health day treatment, sex offenders, wards only, emancipation and reunification. Many programs provide more than one service and list their primary service function as reunification of children with the biological family. A high number also list their primary function as emancipation.",
+    "eligibility": "Per WIC 17736(b), group homes are generally no longer allowable as a placement for children/youth in foster care, with the exception of licensed group homes that have been vendorized by a Regional Center to serve Regional Center clients.",
+    "partners_involved": "CWS\nProbation\nRegional Center",
+    "state_direction": "ACIN I-49-20",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "medical",
+      "housing",
+      "substance",
+      "family",
+      "therapy",
+      "mental health",
+      "youth",
+      "24-hour care"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "Small Family Home (Non-Vendorized)",
+    "description": "A Small Family Home (SFH) is a for-profit licensed facility that provides 24-hour care for six or fewer children, often those with disabilities, requiring special care and supervision. Staff in the home may include the operator of the home, assistant caregivers, on-call assistants, and other providers. For SFH's not vendorized by Regional Center, Child Welfare must negotiate the services provided and rate paid for each placement. Services in a SFH may include:\nChild activities\nParticipating with agencies and other responsible persons in planning for and providing the needs of the child.\nEnsuring that the child is clean and providing the child with training in personal cleanliness and hygiene.\nProtecting the child from home accidents.\nMaking provisions for the child to attend available community treatment or training programs when the child has needs which can be met by such programs.\nAssisting the child in the development of goals and encouraging them to reach those goals.\nSupervising the provision of basic services within the home.\nUnless restricted by the case plan adopted by the court or other court order,  permit and facilitate connections between the child and the child’s family and non-relative extended family members. \nProvide access and information reagrding vocational and other postsecondary educational options.",
+    "eligibility": "Small Family Homes are generally no longer allowable as a placement for children/youth in foster care, with the exception of licensed SFHs that have been vendorized by a Regional Center to serve Regional Center clients.",
+    "partners_involved": "CWS\nProbation\nRegional Center",
+    "state_direction": "Licensing (CCL) under\nTitle 22 Regulations.",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "family",
+      "therapy",
+      "community-based",
+      "youth",
+      "24-hour care",
+      "education"
+    ]
+  },
+  {
+    "system": "Probation",
+    "type": "Placement",
+    "category": "Probation - Placement",
+    "name": "Supervised Independent Living Placement (SILP)",
+    "description": "A SILP is a placement option for NMDs who are in Extended Foster Care (EFC). The SILP is intended to provide young adults with the opportunity for highly independent living experiences while receiving financial support along with the safety net of a SW caseworker to provide support and services for problems that arise. A SILP may be with parent or guardian from whom the youth was removed .",
+    "eligibility": "NMDs, including married NMDs, are responsible for finding their own SILP; however, the SILP must still be approved by the SW.\n\nNMDs receiving a Dual Agency Rate are not appropriate for a SILP.",
+    "partners_involved": "CWS\nProbation",
+    "state_direction": "ACL 17-83",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "youth",
+      "transition",
+      "family"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Day Treatment Intensive",
+    "description": "Structured, multi-disciplinary program which provides services to a distinct group of individuals. \nIntended to provide an alternative to hospitalization, avoid placement in a more restrictive setting, or assist the beneficiary in living within a community setting. \nServices are available for at least three hours each day, for less than 24 hours per day\nMay include contact with significant support persons or other collaterals if the purpose of their participation is to focus on the treatment of the beneficiary\nMust have an established site but some components can be delivered off site\nSome service components may be delivered through telehealth or telephone\nIncludes:\nAssessment\nTreatment Planning\nTherapy\nPsychosocial Rehabilitation",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under\nAt risk for hospitalization or placement in a more restrictive setting",
+    "partners_involved": "MHP\nCWS\nProbation",
+    "state_direction": "SMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Day Rehabilitation",
+    "description": "Structured program which provides services to a distinct group of individuals\nIntended to improve or restore personal independence and functioning necessary to live in the community or prevent deterioration of personal independence consistent with the principles of learning and development \nOther similar features to Day Treatment Intensive",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under",
+    "partners_involved": "MHP\nCWS\nProbation",
+    "state_direction": "SMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "education",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Crisis Intervention",
+    "description": "An unplanned, expedited service, to or on behalf of a beneficiary to address a condition that requires more timely response than a regularly scheduled visit\nAn emergency response service enabling a beneficiary to cope with a crisis, while assisting the beneficiary in regaining their status as a functioning community member\nThe goal of crisis intervention is to stabilize an immediate crisis within a community or clinical treatment setting\nMay include contact with significant support persons or other collaterals if the purpose of their participation is to focus on the treatment of the beneficiary",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under\nMay be provided regardless of coverage if a mental health crisis is present",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "SMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "community-based",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Community-Based Mobile Crisis Services",
+    "description": "Rapid response, individual assessment and community-based stabilization for persons experiencing a mental health crisis\nIncludes de-escalation and stabilization techniques that reduce the immediate risk and subsequent harm; and avoid unnecessary emergency department care, psychiatric inpatient hospitalizations, and law enforcement involvement\nIncludes warm handoffs to appropriate settings and providers when the beneficiary requires additional stabilization and/or treatment services with and referrals to appropriate health, social and other services and supports, as needed; and short-term follow up support to help ensure the crisis is resolved and the beneficiary is connected to ongoing care\nMay include contact with a family member(s) or other significant support colateral(s)\nFor children and youth, in particular, mobile crisis teams shall work extensively with parents, caretakers and guardians, as appropriate, and in a manner that is consistent with al federal and state laws related to minor consent, privacy and confidentiality\nMobile crisis services are provided by a multidisciplinary mobile crisis team at the location where the beneficiary a behavioral health crisis\n24/7/365 access",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under\nMay be provided regardless of coverage if a mental health crisis is present",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "SMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "family",
+      "therapy",
+      "community-based",
+      "mental health",
+      "youth",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Peer Support",
+    "description": "Peer Support Services are culturally competent individual and group services that promote recovery, resiliency, engagement, socialization, self-sufficiency, self-advocacy, development of natural supports, and identification of strengths through structured activities such as group and individual coaching to set recovery goals and identify steps to reach the goals\nIncludes:\nEducation Skill Building\nEngagement\nTherapeutic Activities",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "SMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "peer support",
+      "education"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Wraparound Services",
+    "description": "Provides a comprehensive, holistic, youth and family-driven way of responding when children or youth experience serious mental health or behavioral challenges\nWith support from a team of professionals and natural supports, the family’s ideas and perspectives about what they need and what will be helpful drive all of the work in Wraparound",
+    "eligibility": "Depending on how the county covers services may be a mix of Medi-Cal eligibility and other funding sources\nTypically youth at risk for remaining safely in the community.\n\nCan be provided as High Fidelity Wrap to any youth who qualify under the Full Service Partnership.",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "BHIN 21-061",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "wraparound",
+      "mental health",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Individual, Group, and Family Therapy\n- Assessment\n- Treatment Planning\n- Therapy\n- Psychosocial Rehabilitation",
+    "description": "Mental Health Services are individual, group or family-based interventions that are designed to provide reduction of the beneficiary’s mental or emotional disability, restoration, improvement and/or preservation of individual and community functioning, and continued ability to remain in the community consistent with the goals of recovery, resiliency, learning, development, independent living and enhanced self-sufficiency\nMay include contact with significant support persons or other collaterals if the purpose of their participation is to focus on the treatment of the beneficiary.\nMental health services may be provided face-to-face, by telephone or by telehealth and may be provided anywhere in the community.",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under\nThe beneficiary has a condition placing them at high risk for a mental health disorder due to experience of trauma OR\nSignificant impairment, probability of deterioration, or progress as developmentally appropriate AND\nCovered MH diagnosis or exposure to trauma.",
+    "partners_involved": "MHP\nCWS\nProbation",
+    "state_direction": "SMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "family",
+      "therapy",
+      "community-based",
+      "mental health",
+      "transition",
+      "education"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Intensive Care Coordination (ICC) (SMHS)",
+    "description": "ICC is a targeted case management service that facilitates assessment of, care planning for, and coordination of services.\nService components include: assessing, service planning and implementation, monitoring and adapting, and transition.\nICC Coordinator: \nEnsures that medically necessary services are accessed, coordinated and delivered in a strength-based, individualized, family/child driven and culturally and linguistically competent manner and that services and supports are guided by the needs of the child;\nFacilitates a collaborative relationship among the child, their family and systems involved in providing services to the child; \nSupports the parent/caregiver in meeting their child’s needs;\nHelps establish the CFT and provides ongoing support; and\nOrganizes and matches care across providers and child serving systems to allow the child to be served in the community",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "Integrated Core Practice Manual (ICMP)\nMedi-Cal Manual for IHBS, ICC, and TFC\nSMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "medical",
+      "family",
+      "community-based",
+      "youth",
+      "transition"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Intensive Home Based Services (IHBS)(SMHS)",
+    "description": "IHBS are individualized, strength-based interventions designed to ameliorate mental health conditions that interfere with a child’s functioning and are aimed at helping the child build skills necessary for successful functioning in the home and community, and improving the child’s family’s ability to help the child successfully function in the home and community. \nIHBS services are provided in accordance with the Integrated Core Practice Model (ICPM) by the Child and Family Team (CFT) in coordination with the family’s overall service plan which may include IHBS\nService activities include, but are not limited to assessment, treatment plan, therapy and collateral",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "Integrated Core Practice Manual (ICMP)\nMedi-Cal Manual for IHBS, ICC, and TFC\nSMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "family",
+      "therapy",
+      "community-based",
+      "mental health",
+      "youth"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Therapeutic Behavioral Services (TBS)(SMHS)",
+    "description": "Intensive, individualized, short-term outpatient treatment interventions.\nIndividuals receiving these services have serious emotional disturbances (SED), are experiencing a stressful transition or life crisis and need additional short-term, specific support services. \nA preventative measure to reduce reliance on residential treatment options",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under",
+    "partners_involved": "MHP\nCWS\nProbation",
+    "state_direction": "DMH Letter 99-03\nSMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "housing",
+      "transition",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Targeted Case Management",
+    "description": "Targeted case management is a service that assists a beneficiary to access needed medical, educational, social, prevocational, vocational, rehabilitative or other community services\nService activities may include:\ncommunication, coordination, and referral; \nmonitoring service delivery to ensure patient access to service and the service delivery system;\nmonitoring the beneficiary’s progress;\nplacement services\nplan management",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under,",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "SMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "medical",
+      "education",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Referral and Linkages",
+    "description": "Referral and Linkages are services and supports to connect a beneficiary with primary care, specialty medical care, substance use disorder treatment providers, mental health providers, and community-based services and supports\nIncludes:\nIdentifying appropriate resources\nMaking appointments\nAssisting a beneficiary with a warm handoff to obtain ongoing support",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "SMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "medical",
+      "mental health",
+      "therapy",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Medication Support Services",
+    "description": "Medication support services include prescribing, administering, dispensing and monitoring drug interactions and contraindications of psychiatric medications or biologicals that are necessary to alleviate the suffering and symptoms of mental illness\nIncludes:\nEvaluation of the need for medication\nEvaluation of clinical effectiveness and side effects\nMedication education including instruction in the use, risks and benefits of and alternatives for medication\nTreatment Planning",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center",
+    "state_direction": "SMHS Billing Manual\nBHIN 21-073",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "mental health",
+      "education"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Narcotic Treatment Programs (NTP) (Drug Medi-Cal)",
+    "description": "Narcotic treatment program services includes intake, treatment planning, medical  direction, body specimen screening, physician and nursing services related to substance abuse, medical psychotherapy, individual and/or group counseling, admission physical examinations and laboratory tests, medication services, and the provision of methadone and other medications for addiction treatment (MAT) approved by the Federal Drug Administration for treatment of Opioid Use Disorder (OUD)",
+    "eligibility": "Enrolled in Medi-Cal\nMedical Necessity Determination\nASAM Criteria\nCounty is a State Plan DMC county",
+    "partners_involved": "County SUD\nCWS\nProbation",
+    "state_direction": "DMC Billing Manual\nBHIN 21-071",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "medical",
+      "therapy",
+      "substance"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Outpatient Drug Free Services (ODF) (Drug Medi-Cal)",
+    "description": "Outpatient drug free treatment services including admission physical examinations, intake, medical direction, medication services, body specimen screens, treatment and discharge planning, crisis intervention, collateral services, group counseling, and individual counseling",
+    "eligibility": "Enrolled in Medi-Cal\nMedical Necessity Determination\nASAM Criteria\nCounty is a State Plan DMC county",
+    "partners_involved": "County SUD\nCWS\nProbation",
+    "state_direction": "DMC Billing Manual\nBHIN 21-071",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "medical",
+      "therapy",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "ODF Group and Individual Counseling (Drug Medi-Cal)",
+    "description": "Group counseling sessions focus on short-term personal, family, job/school, and other problems and their relationship to substance abuse\n\nIndividual counseling includes intake, crisis intervention, collateral services,and treatment and discharge planning",
+    "eligibility": "Enrolled in Medi-Cal\nMedical Necessity Determination\nASAM Criteria\nCounty is a State Plan DMC county",
+    "partners_involved": "County SUD\nCWS\nProbation",
+    "state_direction": "DMC Billing Manual\nBHIN 21-071",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "family",
+      "therapy",
+      "substance",
+      "education",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Intesive Outpatient Treatment (IOP) (Drug Medi-Cal)",
+    "description": "Intensive outpatient treatment (IOT), includes intake, admission physical examinations, medical direction, treatment planning, individual and group counseling, body specimen screens, medication services, collateral services, and crisis intervention\nprovided at least three (3) hours per  day, three (3) days per week",
+    "eligibility": "Enrolled in Medi-Cal\nMedical Necessity Determination\nASAM Criteria\nCounty is a State Plan DMC county",
+    "partners_involved": "County SUD\nCWS\nProbation",
+    "state_direction": "DMC Billing Manual\nBHIN 21-071",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "medical",
+      "therapy",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Naltrexone Treatment Services (Drug Medi-Cal)",
+    "description": "Medication Assisted Treatment (MAT) services for opioid addiction\nIncludes all ODF components",
+    "eligibility": "Enrolled in Medi-Cal\nMedical Necessity Determination\nASAM Criteria\nCounty is a State Plan DMC county",
+    "partners_involved": "County SUD\nCWS\nProbation",
+    "state_direction": "DMC Billing Manual\nBHIN 21-071",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Peer Support Services (Drug Medi-Cal)",
+    "description": "Peer Support Services are structured non-clinical activity provided by a Peer Support Specialist to promote recovery, wellness, self-advocacy, relationship enhancement, and development of natural supports, self-awareness and values, and the maintenance of community living skills to support the beneficiary’s treatment to attain and maintain recovery within their communities\nMay include:\nAdvocacy on behalf of the beneficiary; \npromotion of self-advocacy; resource navigation;\ncollaboration with the beneficiaries and others providing care or support to the beneficiary, family members, or significant support persons",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under\nASAM Criteria",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "DMC Billing Manual\nBHIN 21-071",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "peer support",
+      "community-based",
+      "family"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Mobile Crisis Services (Drug Medi-Cal)",
+    "description": "Same service components as Mental Health Mobile Crisis, with a substance use focus",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria for SMHS for 21 and under\nASAM Criteria",
+    "partners_involved": "MHP\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "DMC Billing Manual\nBHIN 21-071",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "mental health",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Drug Medi-Cal Organized Delivery System (ODS) Assessment, Clinical Consultation and Care Coordination",
+    "description": "Assessment: Activities to evaluate or monitor the status of a beneficiary’s behavioral health and determine the appropriate level of care and course of treatment for that beneficiary\n\nCare Coordination: Provided in clinical or non-clinical settings and includes one or more of the \nfollowing components: \n Coordinating with primary care and mental health care providers to monitor and support comorbid health conditions\nDischarge planning, including coordinating with SUD treatment providers to support transitions between levels of care and to recovery resources, referrals to mental health providers, and referrals to primary/ specialty medical providers\nAncillary services, including individualized connection, referral, and linkages to community based services and supports including but not limited to educational, social, prevocational, vocational, housing, nutritional, criminal justice, transportation, child care, child  development, family/marriage education, and mutual aid support group\n\nConsultation: Clinicians with complex cases and may address medication selection, dosing, side effect management, adherence, drug-drug interactions, or level of care considerations",
+    "eligibility": "Enrolled in Medi-Cal\nDMC ODS-Level of Care/ASAM\nCounty is a DMC-ODS county",
+    "partners_involved": "County SUD\nCWS\nProbation",
+    "state_direction": "DMC-ODS Billing Manual\nBHIN 24-001",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "medical",
+      "housing",
+      "family",
+      "therapy",
+      "community-based",
+      "mental health",
+      "transition",
+      "youth",
+      "education"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "ODS Family, Group, and Individual Counseling and Education",
+    "description": "Family: A rehabilitative service that includes family members in the treatment process, providing education about factors that are important to the beneficiary’s recovery as well as the holistic recovery of the family system\nFamily members can provide social support to the beneficiary and help motivate their loved one to remain in treatment\n\nIndividual/Group: SUD focused counseling in a group setting or one on one",
+    "eligibility": "Enrolled in Medi-Cal\nDMC ODS-Level of Care/ASAM\nCounty is a DMC-ODS county",
+    "partners_involved": "County SUD\nCWS\nProbation",
+    "state_direction": "DMC-ODS Billing Manual\nBHIN 24-001",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "education",
+      "family"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "ODS Medical Psychotherapy",
+    "description": "Psychotherapy delivered by the Medical Director of a NTP program",
+    "eligibility": "Enrolled in Medi-Cal\nDMC ODS-Level of Care/ASAM\nCounty is a DMC-ODS county",
+    "partners_involved": "County SUD\nCWS\nProbation",
+    "state_direction": "DMC-ODS Billing Manual\nBHIN 24-001",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "medical",
+      "therapy"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "ODS Medication Services",
+    "description": null,
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": []
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Medication for Addiction Treatment (MAT) (ODS)",
+    "description": "Prescription drugs and biologies approved to treat Substance Use Disorders\nMay be provided in clinical or non-clinical settings\nMay include:\nAssessment \n Counseling (individual and group counseling)\nFamily Therapy \nMedication Services\nPatient Education \nRecovery Services \nSUD Crisis Intervention Services \nWithdrawal Management Services\nPrescribing and monitoring MAT for AUD and Other Non-Opioid Substance Use Disorders, which consists of prescribing, administering, dispensing, ordering, monitoring, and/or managing the medications used for MAT services for AUD and Other Non-Opioid Substance Use Disorder",
+    "eligibility": "Enrolled in Medi-Cal\nMeet Medical Necessity Criteria \nASAM Criteria",
+    "partners_involved": "MHP\nCWS\nProbation",
+    "state_direction": "DMC-ODS Billing Manual\nBHIN 24-001",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "education",
+      "family",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Patient Education",
+    "description": "Patient Education is education for the beneficiary on addiction, treatment, recovery and associated health risks",
+    "eligibility": "Enrolled in Medi-Cal\nDMC ODS-Level of Care/ASAM\nCounty is a DMC-ODS county",
+    "partners_involved": "County SUD\nCWS\nProbation",
+    "state_direction": "DMC-ODS Billing Manual\nBHIN 24-001",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "education"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Contingency Management Services (ODS)",
+    "description": "Contingency Management (CM) is an evidence-based treatment that provides motivational incentives to treat individuals living with stimulant use disorder and support their path to recovery. It recognizes and reinforces individual positive behavioral change, as evidenced by drug tests that are negative for stimulants. CM is the only treatment that has demonstrated robust outcomes for individuals living with stimulant use disorder, including reduction or cessation of drug use and longer retention in treatment.",
+    "eligibility": "Enrolled in Medi-Cal\nDMC ODS-Level of Care/ASAM\nCounty is a DMC-ODS county",
+    "partners_involved": "County SUD\nCWS\nProbation",
+    "state_direction": "DMC-ODS Billing Manual\nBHIN 24-001",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Enhanced Care Management (ECM) Outreach and Engagement",
+    "description": "ECM is a whole-person, interdisciplinary approach to care that addresses the clinical and non-clinical needs of persons with the most complex medical and social needs. Includes Outreach and Engagement, Comprehensive Assessment and Care Managment Plan, Health Promotion, Transitional Care Services, Member and Family Supports, and Coordnation of and Referral to Community and Social Supports.\nGoals:\n Improving care coordination;\nIntegrating services;\nFacilitating community resources; \nAddressing Social Determinants Of Health;\nImproving health outcomes;\nDecreasing inappropriate utilization and duplication of services\nService Components Include:\nOutreach and Engagement\nComprehensive Assessment and Care Management Plan\nEnhanced Care Coordination\nHealth Promotion\nTransitional Care Services\nMember and Family Supports\nCoordination of and Referral to Community and Social Support Services",
+    "eligibility": "Enrolled in Medi-Cal\nManaged Care Medi-cal Member\nRelated Population of Focus for ECM provider (ie Serious Mental Health or Substance Use needs, Children and Youth in CWS) Note this is not a specific Behavioral Health intervention unless this is the providers population of focus",
+    "partners_involved": "Medi-Cal Managed Care Plan in the county\nPossibly could include:\nMHP/County SUD\nCWS\nProbation\nRegional Center\nEducation",
+    "state_direction": "ECM Provider Toolkit\nCalAIM Guidance: Data & Invoicing",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "medical",
+      "community-based",
+      "transition",
+      "family"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "STRTP Services",
+    "description": "In conjunction with CWS STRTP placements, the following services are provided in an STRTP:\n\nCrisis Intervention\nMental Health Services\nTargeted Case Management\nDay Treatment Intensive\nDay Rehabilitation\nMedication Support Services\nSMHS for Children and Youth",
+    "eligibility": "Enrolled in Medi-Cal\nMedical necessity for SMHS\nAssessment by a Qualified Individual (QI) to determine this is the most appropriate level of care\nMust not require inpatient level of care",
+    "partners_involved": "MHP\nCWS\nProbation",
+    "state_direction": "SMHS Billing Manual\nBHIN 21-073\nBHIN 22-069\nBHIN 21-062",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "mental health",
+      "youth",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "Intensive Outpatient Treatment",
+    "description": "Intensive Outpatient Services are provided to members when medically necessary in a structured programming environment. Intensive Outpatient Treatment includes the following service components: \nAssessment \nIndividual Counseling \nGroup Counseling\nPatient Education \nMedication Services\nMAT for OUD\nSUD Crisis Intervention Services",
+    "eligibility": "Enrolled in Medi-Cal \nPeople with moderate to severe symptoms of mental health disorders who need structured support to manage their conditions.",
+    "partners_involved": "MHP\nCWS\nProbation",
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "medical",
+      "education",
+      "therapy",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Behavioral Health",
+    "type": "Service",
+    "category": "Behavioral Health - Services",
+    "name": "PHP",
+    "description": "PHPs are a type of outpatient treatment that provides a more intensive level of care than traditional outpatient therapy, but less intense than inpatient treatment.\nParticipants attend the program for several hours a day, several days a week, and return home in the evenings.\nThey are designed for individuals who need a structured and intensive environment to manage their mental health or substance use challenges, but don't require around-the-clock care. \nServices may include:\n\nIndividualized treatment plans tailored to each client's needs.\nTherapy groups, including cognitive behavioral therapy (CBT), social skills groups, and mindfulness groups.\nMedication management and evaluation.\nGroup activities and experiential therapy.\nCoping skills training.\nRelapse prevention strategies.\nPsychiatric assessment and evaluation.\nCase management and discharge planning.\nVocational counseling.\nFamily therapy.\nEducational support.",
+    "eligibility": "Enrolled in Medi-Cal \nPeople with moderate to severe symptoms of mental health disorders who need structured support to manage their conditions.",
+    "partners_involved": "MHP\nCWS\nProbation",
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [
+      "Medi-Cal"
+    ],
+    "tags": [
+      "therapy",
+      "mental health",
+      "education",
+      "family"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Vendored Small Family Homes",
+    "description": "A Small Family Home (SFH) is a licensed facility that provides 24-hour care for six or fewer children, often those with disabilities, requiring special care and supervision. Staff in the home may include the operator of the home, assistant caregivers, on-call assistants, and other providers. Services in a SFH include:\nChild activities\nParticipating with agencies and other responsible persons in planning for and providing the needs of the child.\nEnsuring that the child is clean and providing the child with training in personal cleanliness and hygiene.\nMaking provisions for the child to attend available community treatment or training programs when the child has needs which can be met by such programs.\nAssisting the child in the development of goals and encouraging them to reach those goals.\nSupervising the provision of basic services within the home.\nUnless restricted by the case plan adopted by the court or other court order,  permit and facilitate connections between the child and the child’s family and non-relative extended family members. \nProvide access and information reagrding vocational and other postsecondary educational options.\n\nThe vendorization process allows regional centers to verify, prior to the provision of services to consumers, that an applicant meets all of the requirements and standards specified in regulations.",
+    "eligibility": "Youth ages 0-17 active to a regional center due to an identified disability who require special care and supervision due to their developmental, mental, or physical handicap.\nYouth 18-19 who continue to be provided care and supervision by a caregiver in the home. \nYouth 18-22 who meet the definition for child with special healthcare needs\nPlacements in SFHs can be done by a regional center, a parent/guardian, or a child placing agency; with or without a court order.\nThe operator of the SFH is required to assess that they can meet the individual needs of the child and can still meet the needs of other children in the home, before accepting placement.",
+    "partners_involved": "Vendored by Developmental Services, also utilized by Child Welfare for Dual Services youth.",
+    "state_direction": "Sections of Title 17 of the California Code of Regulations (CCR) governing the vendorization process and services purchased by regional centers.\n\nSection 80001(s)(3)\n\nWelfare and Institutions Code section 17710, subsection (a) - SHCN\n\nCDSS Regs Title 22, Div 6, Chpt 4\n\nCCL-16-07\nCCL-20-01\nCCL-22-17\nCCL-23-03\nCCL-23-06\nCCL-24-01",
+    "age_range": {
+      "min": 0,
+      "max": 17
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "family",
+      "therapy",
+      "community-based",
+      "youth",
+      "24-hour care",
+      "education"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Community Care Facilities - Child Serving Group Homes",
+    "description": "A GH provides 24-hour non-medical care and supervision to children to children with intellectual/developmental disabilities who need personal services, supervision, and/or assistance essential for self-protection or sustaining the activities of daily living.\n\nServices are based upon the child’s needs and within one of four distinct levels of residential care.\nLevel 1 – Care and supervision for children with self-care skills.\nLevel 2 – Care, supervision and incidental training for children with some self-care skills and no major behavior challenges.\nLevel 3 – Care, supervision and ongoing training for children with significant deficits in self-help skills, and/or some limitations in physical coordination and mobility, and/or disruptive or self-injurious behavior.\nLevel 4 – Care, supervision and training for children with deficits in self-help skills, and/or severe impairments in physical coordination and mobility, and/or severely disruptive or self-injurious behavior. The staffing in these homes corresponds to the needs of the children residing there.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": "CCL-24-02\nCCL-23-14\nCCL-23-07\nCCL-23-05\nCCL-23-01\nCCL-22-18\nCCL-20-02\nCCL-16-08",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "housing",
+      "community-based",
+      "youth",
+      "24-hour care"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Community Care Facilities - Adult Residential Facilities (Level 2-4i)",
+    "description": "Community Care Facilities (CCFs) are licensed by the Community Care Licensing Division of the State Department of Social Services to provide 24-hour non-medical residential care to children and adults with developmental disabilities who are in need of personal services, supervision, and/or assistance essential for self-protection or sustaining the activities of daily living. Based upon the types of services provided and the persons served, each CCF vendored by a regional center is designated one of the following service levels:\nLevel 2 - Care, supervision, and incidental training for persons with some self-care skills and no major behavior problems.\nLevel 3 - Care, supervision, and ongoing training for persons with significant deficits in self-help skills, and/or some limitations in physical coordination and mobility, and/or disruptive or self-injurious behavior.\nLevel 4 - Care, supervision, and professionally supervised training for persons with deficits in self-help skills, and/or severe impairment in physical coordination and mobility, and/or severely disruptive or self-injurious behavior. Service Level 4 is subdivided into Levels 4A through 4I, in which staffing levels are increased to correspond to the escalating severity of disability levels.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "housing",
+      "community-based",
+      "youth",
+      "24-hour care"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Adult Residential Facilities for Persons with Special Healthcare Needs (ARFPSHN)",
+    "description": "A Department of Social Services licensed and Department of Developmental Services certified residential program, in the community, for adults with developmental disabilities who are medically fragile and require 24/7 licensed nursing supports. The Adult Residential Facility for Persons with Special Health Care Needs (ARFPSHN), aka 962 Home, was developed specifically to serve the most medically fragile persons previously residing at a Developmental Center.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "housing",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Group Homes for Children with Special Healthcare Needs (GHCSHCN)",
+    "description": "A type of GH certified by the Department of Developmental Services and licensed by CCLD as a group home that provides 24-hour health care and intensive support services in a homelike setting that is licensed to serve up to five children with special health care needs.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "youth",
+      "24-hour care"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Enhanced Behavioral Support Homes (EBSH)",
+    "description": "Enhanced Behavioral Supports Homes (EBSHs) are adult residential facilities or children’s group homes. EBSHs provide 24-hour non-medical care in a homelike setting to individuals with developmental disabilities with challenging behaviors who require additional supports, staffing, and supervision. The homes have unique characteristics and offer person-centered planning, positive behavior supports, trauma-informed care, and other services and supports which are beyond what is typically available in other community-based homes. EBSHs are certified by the Department of Developmental Services and licensed by the State Department of Social Services.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": "WIC 4684.80 Title 17, Section 59050-59072",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "other community-based homes"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "housing",
+      "trauma",
+      "community-based",
+      "youth",
+      "24-hour care"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Crisis Homes (CCH)",
+    "description": "Community Crisis Homes (CCHs) are residential facilities that provide 24-hour non-medical care to adults and children with developmental disabilities in need of crisis intervention services who would otherwise be at risk of placement in an institutionalized setting (acute crisis center, a state-operated facility, an out-of-state placement, a general acute hospital, or an institution for mental disease). CCHs provide additional assessment, staffing, supervision, specialized staff training, person-centered planning, positive behavior supports, trauma-informed care, and other intensive services and supports to immediately address an individual’s urgent needs. The services provided are the most integrated and the least restrictive possible. The focus is on stabilization and individual goals so that individuals can transition to a long-term placement as quickly and safely as possible.  The homes are certified by the Department of Developmental Services and licensed by the State Department of Social Services. A Community Crisis Home shall have a maximum capacity of eight clients.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": "WIC 4698, Title 17, Section 59000-59022",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "housing",
+      "trauma",
+      "community-based",
+      "youth",
+      "transition",
+      "24-hour care",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "STAR CCHs (State Operated)",
+    "description": "The State-Operated Stabilization Training Assistance Reintegration (STAR) homes are committed to affording each individual a safe and nurturing environment where opportunities for growth, realization, self-expression, and goal achievement is celebrated. The homes strive to empower individuals to be self-reliant as their skills, strengths, perseverance, and abilities allow so they can transition from crisis stabilization services to long-term community living. STAR provides services to children (7-12 years old), adolescents (12-17 years old) and adults (18 years of age and older) with developmental disabilities receiving regional center services and who are in need of time-limited crisis stabilization services for up to 13 months. STAR homes provide trauma informed person-centered support and crisis stabilization to the individuals being served, so that they can successfully transition to a community living setting.",
+    "eligibility": "North STAR – Vacaville, CA\nNorth STAR 1 is a 5-bed Community Crisis Home serving adults ages 18 and older.\nNorth STAR 2 is a 5-bed Community Crisis Home serving adolescents ages 12-17.\nNorth STAR 3 is projected to open before the end of 2024 and will serve children ages 7-12.\nCentral Valley STAR – Springville/Porterville, CA\nCentral Valley STAR 1 is a 5-bed Community Crisis Home serving adolescents ages 12-17.\nCentral Valley STAR 2 is a 5-bed Community Crisis Home serving adults ages 18 and older.\nSouth STAR – Costa Mesa, CA\nSouth STAR 1 is a 5-bed Community Crisis Home serving adolescents ages 12-17.\nSouth STAR 2 is a 5-bed Community Crisis Home serving adults ages 18 and older.",
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": 12,
+      "max": 17
+    },
+    "county_restrictions": [
+      "adults ages 18",
+      "older"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "trauma",
+      "community-based",
+      "youth",
+      "transition",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Vendorized FFAs",
+    "description": "Foster Family Agencies (FFAs) are residential options for children with developmental disabilities, that represent a collaborative effort between two service systems – developmental disabilities and social services/community care licensing. FFAs are privately operated organizations licensed by the Community Care Licensing Division of the State Department of Social Services to care for children up to age 18 in certified foster family homes. FFAs are responsible for the recruitment, training and certification of families to provide alternative homes for children. FFAs monitor and provide oversight for the homes they have certified, and have the authority to decertify homes when necessary. In addition, through the use of professional staff such as social workers, FFAs provide ongoing support to certified parent(s) and the children who live with them.\n\nProfessional foster care allows the family and/or those who know the child the best to pick and choose the best support system for the child and wrap services around the child rather than have the child fit into whatever services, i.e. group home, are available. The child is living in a “normal” way – the child lives in a family, in a neighborhood and interacts with other children living the same way. The child has as much contact with the family of origin as the family chooses. The foster home, in the most ideal situation, becomes an extension of the family system.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": 18
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "foster",
+      "housing",
+      "family",
+      "community-based",
+      "youth"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Family Home Agency",
+    "description": "A Family Home Agency (FHA) approves family homes which offer the opportunity for up to two adult individuals with developmental disabilities per home to reside with a family and share in the interaction and responsibilities of being part of a family. The individual with developmental disabilities receives the necessary service and supports from the family, agencies and the community to enable the individual to be a participating member of the family and the community where the family resides. The family home arrangement allows the sharing of food, shelter, experience, responsibilities and love.\n\nThe FHA is a private for-profit or not-for-profit organization under contract to, and vendored by a regional center. FHAs are responsible for recruiting, training, approving and monitoring family homes, as well as providing ongoing support to family homes. Social service staff employed by the FHA make regular visits to the family home to ensure that necessary services and supports are in place, and that the match between the family and the new family member is viable, and continues to be viable.\n\nFHA and family home services and supports are a new option which enables adults with developmental disabilities to enter into partnerships with families that promote self-determination and interdependence.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "community-based",
+      "housing",
+      "family"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Porterville Developmental Center (PDC)",
+    "description": "The Interdisciplinary Team, which includes the consumer, the family or legal representative, and PDC staff such as physicians, psychologists, nurses, psychiatric technicians, social workers, chaplains, rehabilitation and speech therapists, teachers, dietitians and pharmacists, all work toward this mission. The team develops an Individual Program Plan using a person-centered planning process. Services may include health care, education, work training, employment, self-help training, and preparation for independent living, as well as leisure activities, behavior management and socialization skills development.\n\nPDC is one of four State-operated facilities within the California Department of Developmental Services serving people with developmental disabilities. PDC provides 24-hour residential services for individuals 18 years or older who have serious medical and/or behavior problems for which appropriate services are not currently available through community resources. PDC is licensed by the California Department of Public Health to provide general acute medical services, skilled nursing services, and intermediate care services.\n\nThe majority of individuals served at PDC have an intellectual disability and many have severe chronic medical or behavioral problems. Others require services within a secure treatment program.",
+    "eligibility": "670 acres in Porterville, California\n\nThese individuals are in the mild to moderate range of intellectual disability, have come in contact with the legal system, have been determined to be a danger to themselves or others and/or incompetent to stand trial, and have been determined by the court to meet the criteria requiring treatment in a secure area.",
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "people with developmental disabilities"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "developmental",
+      "housing",
+      "family",
+      "therapy",
+      "dd",
+      "community-based",
+      "mental health",
+      "transition",
+      "24-hour care",
+      "education"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Institutions for Mental Disease (IMDs)",
+    "description": "Institutions for mental disease (IMD) are facilities that have 16 or more beds where individuals reside to treat mental illness, as well as, receive medical and nursing care services (Title 42, Code of Federal Regulations (CFR), § 435.1010). In California, IMDs can be psychiatric hospitals, psychiatric health facilities (PHF), skilled nursing facilities with special treatment programs (SNF-STP), mental health rehabilitation centers (MHRC), or state hospitals.\n\nStatute and Regulations\nThese are highly restrictive facilities that do not typically provide appropriate services for individuals with intellectual or developmental disabilities (I/DD) and co-occurring psychiatric disabilities. For this reason, current law places restrictions and time limitations on the use of IMD residential services by regional centers for individuals with I/DD.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": "(Welfare & Institutions Code § 4648(a)(9)(C)).",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "mental health",
+      "housing",
+      "therapy"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Placement",
+    "name": "Canyon Springs",
+    "description": "Canyon Springs Community Facility provides services to assist individuals with intellectual disabilities lead more independent, productive and dignified lives. Our program encourages learning in coping skills, impulse control, self-awareness, enhanced decision making and relationship skills. Individualized training opportunities are designed to attain increased independence, make safe and healthy choices, exercise rights and achieve life goals.\n\nOperated by the State Department of Developmental Services, CS is designed to provide residential services, treatment, and training for up to 55 adults who have developmental and intellectual disabilities. CS training and treatment is person-centered and focuses on the development of the individuals’ ability to manage their lives through various treatment/training opportunities such as behavioral supports and replacement behavior teaching, coping skills, life skills, supportive counselling, vocational skills, adult education, recreational skills, interpersonal relationship development, community integration and encouragement of health life choices that lead to healthy, happy and productive lives. \n\nIndividuals live and work at Canyon Springs (CS) while they undergo focused training and treatment to help them learn to manage their lives and gain control over impulsive and inappropriate behaviors. The highly structured program provided by CS is intended to help the residents improve their abilities and personal conduct. As individuals demonstrate acceptable behavioral control and personal responsibility, as well as appropriate work, social, and living skills, they are assisted in returning to their original home communities or other less restrictive living arrangements.",
+    "eligibility": "Referrals for admission are made by Regional Centers.",
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "therapy",
+      "education",
+      "housing",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Respite",
+    "description": "Respite is used to relieve family members from the responsibility of providing care to their loved ones with intellectual and developmental disabilities (I/DD). Services can be intermittent or regularly scheduled supervision.\n\nIn-Home Respite: This service can be intermittent or regularly scheduled for temporary supervision that is provided in the home. In-home respite workers that are trained by a licensed health care professional may provide incidental medical services that are restricted to gastrostomy, colostomy/ileostomy, and urinary catheter care. \n\nCrisis Respite (out-of-home respite in an acute care facility):\nCrisis respite provides services out-of-home. It includes 24-hr observation and temporary care by crisis workers in a licensed residential facility to relieve families of caring for their loved one with I/DD. Services and supports are available to families for planned or emergency needs.\n\nBehavioral Respite: Behavioral respite is intermittent or regularly scheduled non-medical care and/or supervision that is provided in-home for individuals with I/DD and behavioral needs. Staff teaches the individual self-help and daily living skills, implements a pre-existing behavior plan to support behavioral needs.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "respite",
+      "housing",
+      "family",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Service Coordination",
+    "description": "Service coordination is provided through a statewide system of 21 locally-based regional centers. Every individual who is eligible for regional center services is assigned a service coordinator. The service coordinator builds and sustains an ongoing relationship with the individual and their family through facilitating the Individual Program Plan (IPP) process. Through this process, the service coordinator assists individuals and their family members in identifying needs and accessing services and resources. In this way, the service coordinator serves as the first level in prevention. Often the service coordinator is the first person notified if an individual has mental health or behavioral support needs and can coordinate access to the services needed.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": "Welfare and Institutions Codes 4640.6(d) and 4647(a) and (b)",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "mental health",
+      "family"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "START Program",
+    "description": "The Systemic, Therapeutic, Assessment, Resources and Treatment (START) program serves individuals residing in-home and out-of-home. It provides person-centered, trauma-informed, evidence-based, positive support for individuals ages six and older.\n\nThe local START teams provide:\n24-hour case coordination to improve supports and service outcomes,\nWhole-person assessment (I/DD, mental health, medical, access to services, personal strengths, satisfaction, etc.),\nIndividualized map of individual’s connections to others/systems,\nCross-system linkage (connecting I/DD providers, crisis teams, mental health providers, first responders, hospital/psych staff, etc.),\nCommunity education, and\nFamily/staff/provider support and education (in-home therapeutic coaching).",
+    "eligibility": "START is currently available in the following areas:\n\nAlta California Regional Center\nCentral Valley Regional Center\nRegional Center of East Bay\nEast Los Angeles Regional Center\nFrank D. Lanterman Regional Center\nGolden Gate Regional Center\nHarbor Regional Center\nNorth Bay Regional Center\nRedwood Coast Regional Center\nSan Andreas Regional Center\nSan Diego Regional Center\nSouth Central Los Angeles Regional Center\nTri-Counties Regional Center\nValley Mountain Regional Center",
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "trauma",
+      "family",
+      "therapy",
+      "community-based",
+      "mental health",
+      "24-hour care",
+      "education",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Personal Assistance Services (PAS)",
+    "description": "Personal assistance services (PAS) are used to help a person with a disability do tasks that they would normally do if there was no disability. Almost any service that is needed to help a consumer lead their preferred life qualifies as PAS. The focus of this document is PAS for adults with developmental disabilities who choose to live in their own home with supported living services.\n\nServices generally fall into the following categories: \n1) personal care - eg. bathing, dressing, transfers, menstrual care, etc.\n2) domestic services - cleaning the home, cleaning medical or assistive equipment, etc\n3) related and other services - food preparation, help participating in the community, money management, etc.\n4) paramedical services - medication support, bowel program, etc.",
+    "eligibility": "A consumer of regional center services must have needed services included in his or her IPP which also identifies who is responsible for payment for the services.",
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Durable Medical Equipment (DME) services",
+    "description": "Provide information, referral, and assistance in accessing DME through the individual's program plan, which may include purchase of necessary services. \n\nThese goods are designed for long-term use to those who are facing a medical challenge, recuperating from an injury, or adjusting to a physical change. DME supports everyday activities and helps patients to live safer and more independent lives.\n\nIRC provides DME products may include the following:\n- Diapers\n- Eyewear and hearing supplies\n- Mobility equipment such as walkers and wheelchairs\n- Nutritional supplies\n- Orthotics and prosthetics\n- Positioning and adaptive equipment",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "medical"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "ABA",
+    "description": "Applied Behavior Analysis (ABA) focuses on socially important behaviors. It is a flexible, problem solving therapy that can be adapted for the unique needs, goals, and interests of each individual. As a preventative support service, ABA therapy teaches individuals with intellectual and developmental disabilities (I/DD) and their caregivers how to support behavioral needs to prevent crises and hardships.\n\nABA is empirically supported, research-driven and based on scientific principles of human behavior. ABA therapy is overseen by a qualified and trained behavior analyst, typically a Board Certified Behavior Analyst, who designs and directs the ABA service.\n\nABA therapy is used in a variety of settings with children and adults who have I/DD to:\nSystematically study behavior\nUnderstand the purpose of a behavior\nManage, improve, or change behaviors and skills\nDecrease behaviors that risk health and safety\nReduce the need for other specialty services\nMeasure improvement of behaviors and skills",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "therapy",
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Behavior Consultation",
+    "description": "Behavior consultation services are provided by consultants who will learn about the child, family, and child care provider’s strengths to build on what has been working. They will try to understand what has been going on, learn about what has already been tried, and work together in finding additional strategies for how to help the child.\n\nKey parts of Consultation Services\nGather Information: An intake session to gather information about the child’s strengths and challenges through screening tools and observation\nCollaborative Meeting: A meeting with the child’s “team”  to share ideas about what may be causing the child’s challenging behaviors. The team will come up with a plan for how to support the child’s strengths to be built on, specific goals to be addressed, and strategies to be implemented.\nNext Steps: Implement the identified strategies and partner on achieving goals. Service options differ for each family and may include coaching, training, and external referrals.",
+    "eligibility": "Referral: Requests for services can be initiated by families, caregivers and/or childcare providers. A consultant will reach out to describe services and determine the best fit for your needs.",
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "youth",
+      "family"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Social Recreation",
+    "description": "Community integration dollars (Rec Grants) were awarded to Regional Centers to provide: community engagement and friendship outreach, education and training, financial assistance, and increased access to programs that are culturally and linguistically sensitive. Being able to fund social recreational programs allows recipients to increase and encourage inclusion in their communities and strengthen their social skills.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "education",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Supported Living Services (SLS)",
+    "description": "Supported Living Services (SLS) assist adults with intellectual/developmental disabilities establish and maintain a safe, stable, and independent life in homes they own or rent. SLS helps individuals make meaningful choices toward their personal goals in relationships and the community. SLS is offered for as long as needed and is flexible to a person’s changing needs over time.\n\nSLS can be funded through the regional center and/or In-Home Support Services and can be supervised by the individuals themselves. Individuals who receive SLS are eligible for HUD’s Section 8 Housing Program. Their living expenses may be paid through Supplemental Security Income or other benefits/income.\n\nSLS may include assistance with the following:\nSelecting a home\nMoving into a home\nChoosing personal attendants\nChoosing housemates\nAcquiring household furnishings\nParticipating in daily living activities\nPreparing for emergencies\nParticipating in community life\nManaging personal financial affairs",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "housing",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Enhanced SLS",
+    "description": "Enhanced Supported Living Services are designed for adults with intellectual/developmental disabilities who have a current or previous history of psychological and/or medical crisis, that creates a need for higher level supports and staff who have more extensive training and/or experience. While encompassing all the components of traditional SLS, this program focuses on individuals with higher needs and medical/behavioral challenges. \n\nEnhanced supports may include: additional staffing supports, clinical consultation, enhanced training and supervision for support staff. ESLS services provide enhanced tailored supports with a focus on serving individuals who have not been successful in other services and settings and/or who may be at risk of placement in a more restrictive environment.",
+    "eligibility": "Individuals in this program are referred to this more intensive service model by Regional Center committees.",
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [
+      "individuals who have not been successful in other services",
+      "settings and/or who may be at risk of placement in a more restrictive environment"
+    ],
+    "insurance_types": [],
+    "tags": [
+      "medical",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Independent Living Services",
+    "description": "Independent Living Programs provide services to adults with developmental disabilities that offer functional skills training necessary to secure a self-sustaining, independent living situation in the community and/or may provide the support necessary to maintain those skills. Individuals typically live alone or with roommates in their own homes or apartments. These homes are not licensed.\n\nIndependent Living Programs, which are vendored and monitored by regional centers, provide or coordinate support services, referred to as Independent Living Services (ILS), for individuals in independent living settings. They focus on functional skills training for adults who generally have acquired basic self-help skills or who, because of their physical disabilities, do not possess basic self-help skills, but who employ and supervise aides to assist them in meeting their personal needs.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "transition",
+      "community-based"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Mobile Crisis Services",
+    "description": "Mobile crisis services were developed as one component to address these barriers, funded through the Mental Health Services Act (MHSA). Mobile crisis intervention services with highly trained, specialized staff provide response to an individual in crisis. Mobile crisis services are designed to stabilize and support the individual in their current living arrangement and/or other appropriate setting (e.g. day program, school, community respite, etc.) and/or ensure that they can return as soon as possible after a crisis occurs.\n\nMobile Crisis Services respond to crisis situations, through intervention and prevention, both on site where the crisis is occurring and/or via phone 24 hours a day. Some vendors include screening and dispatching of crisis response teams for assessment and transport to mental health hospitals, as needed. Though, the goal is to prevent unnecessary hospitalizations and provide increased support to occur in a less restrictive setting. Similarly, a mobile crisis team aims to prevent unnecessary adverse contact with law enforcement. Training may also be provided to the individual, family, and caregivers to assist in developing and implementing individualized crisis prevention programs and intervention.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": "Senate Bill 1038 (Thompson, Chapter 1043, Statutes 1998) and Welfare and Institutions Code 4696.1(f)",
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "respite",
+      "family",
+      "community-based",
+      "mental health",
+      "education",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Crisis Assessment Stabilization Teams (CAST)",
+    "description": "State-operated mobile crisis services provided by the Crisis Assessment and Stabilization Team (CAST) is housed at the North and South State-Operated Stabilization Training Assistance Reintegration (STAR). The CAST is designed to provide partnerships, assessments, training and support to individuals continuing to experience crises after regional centers have exhausted all other available crisis services in their catchment areas. CAST also serves individuals who are at risk of having to move from their family home or out of home placement and admitted to a more restrictive setting.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "family",
+      "crisis"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Commuity Wraparound Services",
+    "description": "Community wraparound services is a person-centered, comprehensive model of care designed to support individuals with mental health and/or behavioral support needs. Wraparound services include case management and a planning team that supports individual’s choice, voice, strengths and needs. As a Safety Net stabilization option, wraparound services support individuals to remain in or return to the community with inclusive community options, activities and opportunities.\n\nThe Wraparound model works through a process of team planning to facilitate an individual in achieving their goals. A facilitator assists in putting together a planning team. The team can include the individual, their family and friends, people from their community, rights advocates, providers and the regional center service coordinator. Driven by person-centered principles, the individual guides the process by making choices about their goals and which services and supports will help them achieve those goals. The team members then work together to put the plan into action, monitor how well it’s working, and change it as needed.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "wraparound",
+      "mental health",
+      "community-based",
+      "family"
+    ]
+  },
+  {
+    "system": "Dev Services",
+    "type": "Service",
+    "category": "Dev Services - Services",
+    "name": "Intensive Transition Services for Individuals",
+    "description": "Vendor-operated intensive transition services (also referred to as ITS) are offered to individuals with intellectual and/or developmental disabilities and co-occurring psychiatric disabilities. ITS provides additional support to individuals moving from an IMD, PDC, or restrictive setting to a less restrictive setting in the community.\n\nIntensive transition services include the following:\nRisk assessments;\nDeveloping comprehensive Person-Centered Plans;\nMaking recommendations to planning teams;\nProviding intensive preparatory services to individuals and their Interdisciplinary Teams;\nTraining and evaluation pre-transition and during transition as identified in the Individual Program Plan;\nSupporting individuals with complex service needs during the transition process;\nTraining families and community-based service providers.",
+    "eligibility": null,
+    "partners_involved": null,
+    "state_direction": null,
+    "age_range": {
+      "min": null,
+      "max": null
+    },
+    "county_restrictions": [],
+    "insurance_types": [],
+    "tags": [
+      "mental health",
+      "transition",
+      "community-based"
+    ]
+  }
+]

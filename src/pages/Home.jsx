@@ -7,13 +7,12 @@ import ResourceListing from '../components/ResourceListing'
 import SidebarButton from '../components/SidebarButton'
 
 // Import all service arrays
-import {
-  allServices,
-  childWelfareServices,
-  probationServices,
-  probationPlacements,
-  behavioralHealthPlacements
-} from '../data/allServices'
+const [services, setServices] = useState([]);
+useEffect(() => {
+  fetch('../data/selected_resources.json')
+    .then(res => res.json())
+    .then(data => setServices(data));
+}, []);
 
 // Combine all arrays into one master array
 const combinedServices = [
@@ -23,6 +22,19 @@ const combinedServices = [
   ...childWelfareServices,
   ...allServices
 ];
+
+const [filters, setFilters] = useState({
+  age: "All",
+  county: "All",
+  insurance: "All",
+  cw: "All",
+  eligibility: "All",
+  category: "All",
+  partners: [],
+  search: ""
+});
+
+
 
 const Home = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
